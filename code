@@ -1,0 +1,192 @@
+#
+# This is a Shiny web application. You can run the application by clicking
+# the 'Run App' button above.
+#
+# Find out more about building applications with Shiny here:
+#
+#    http://shiny.rstudio.com/
+#
+
+library(shiny)
+library(DT)
+library(fresh)
+library(ggplot2)
+library(treemapify)
+library(treemap)
+library(dplyr)
+library(shinythemes)
+library(shinydashboard)
+
+
+# Define UI for application that draws a histogram
+ui <- shinyUI(fluidPage(
+  
+  theme = shinytheme("cerulean"),
+  
+  # Application title
+  titlePanel(HTML("Human Cancer: known auses of haematological cancer")),
+  
+  
+  # Sidebar with a slider input for the number of bins
+  sidebarLayout(
+    sidebarPanel(
+      selectInput(inputId="Site",
+                  label = "Cancer site",
+                  choices = c("Lip oral cavity and pharynx",
+                              "Oesophagus",
+                              "Stomach",
+                              "Colon",
+                              "Rectum and anus",
+                              "Liver and intrahepatic bile ducts",
+                              "Gallbladder and extrahepatic ducts",
+                              "Pancreas",
+                              "Larynx",
+                              "Lung (incl. trachea)",
+                              "Bone",
+                              "Melanoma of skin",
+                              "Breast",
+                              "Cervix uteri",
+                              "Corpus uteri",
+                              "Ovary",
+                              "Prostate",
+                              "Testis",
+                              "Kidney and renal pelvis",
+                              "Bladder",
+                              "Eye",
+                              "Brain, central nervous system",
+                              "Thyroid",
+                              "Hodgkin lymphoma",
+                              "Non-Hodgkin lymphoma",
+                              "Multiple myeloma and immunoproliferative diseases",
+                              "Leukamia")),
+      selectInput(inputId = "group",
+                  label = "Group of classification ",
+                  choices = c("1","2A","2B","3")),
+      selectInput(inputId = "agent",
+                  label = "Agent",
+                  choices = c( "Helicobacter pylori","Epstein Barr virus (EBV)","HIV type 1", 
+                               "Chlorambucil", "Busulfan", "Benzene")),
+      
+      selectInput(inputId = "key",
+                  label = "Mechanism",
+                  choices = c("All", "Viral genome proliferation", "Oxidative stress")),
+      selectInput(inputId = "group",
+                  label = "Monograph",
+                  choices = c("100A","76","128","56")),
+      
+      actionButton("button","Show"),
+      width=3,
+      tags$p("The Preamble to the IARC Monographs describes the objective and scope of the programme, the scientific principles and procedures used in developing a Monograph, the types of evidence considered, and the scientific criteria that guide the evaluations. The Preamble should be consulted when reading a Monograph or list of evaluations.
+             "),
+      tags$link("https://monographs.iarc.fr/wp-content/uploads/2019/07/Preamble-2019.pdf")
+      ),
+    
+    
+    
+    
+    # Show a plot of the generated graphic
+    mainPanel(
+      plotOutput("distPlot"),
+      
+      fluidRow(
+        
+        column(6,
+               tableOutput('table')
+               
+        )
+      ),
+      
+      
+      DT::dataTableOutput("mytable"),
+      
+      tabPanel(
+        "Overview",
+        tags$h1(""),
+        tags$p(HTML("Source:https://monographs.iarc.fr/agents-classified-by-the-iarc/"))
+      )
+      
+    )
+    )
+  
+)
+
+)
+
+# Define server logic required to draw a histogram
+server <- function(input, output) {
+  
+  output$distPlot <- renderPlot({
+    
+    library(ggplot2)
+    library(treemapify)
+    library(treemap)
+    library(dplyr)
+    library(kableExtra)
+    
+    setwd("~/Desktop/IMO/")
+    MyPath<-"~/Desktop/IMO"
+    
+    df <- read.csv2("dataMono1976_2020_all_hemato.csv")
+    a<-table(df$cancer_site, df$volume,df$class)
+    b<-as.data.frame(a)
+    df$cancer<-"Other cancer sites"
+    df$cancer[df$cancer_site=="B-and-T-lymphoma" |df$cancer_site=="B-cell neoplasm" | df$cancer_site=="T-cell lymphoma"]<-"Other B-and T-neoplasms"
+    df$cancer[df$cancer_site=="Hodgkin lymphoma" |df$cancer_site=="non-Hodgkin lymphoma" |df$cancer_site=="lymphoma"]<-"lymphomas"
+    df$cancer[df$cancer_site=="leukemia" ]<-"leukemia"
+    df1<-subset(df,df$cancer=="Other B-and T-neoplasms"|df$cancer=="lymphomas"|df$cancer=="leukemia")
+    df2<-subset(df1,df1$status=="adults")
+    df3<-df2[c(2,3,7,6)]
+    a<-table(df3$class)
+    b<-prop.table(a)
+    c<-as.data.frame(b)
+    ggplot(c, aes(x="", y=Freq, fill=Var1))+
+      geom_bar(width = 1, stat = "identity") +
+      coord_polar("y") + 
+      theme_void()+ #+geom_text(aes(label =percent(pct_value/100), size =5 ), 
+      #position = position_stack(vjust = 0.5))+
+      #geom_text(aes(x=1.6,label = Freq), size = 4,position = position_stack(vjust = 0.5))+ #NEW SOLUTION THAT WORKS :)
+      guides(fill = guide_legend(title="",nrow=3,byrow=TRUE))+
+      guides(fill = guide_legend(title = "Group"))+
+      labs(title="Sufficient evidence of carcinogenicity 1976-2020", x = "", y="Proportion",
+           caption="IARC-Monographs")+
+      theme_classic() + theme(legend.position="bottom")+
+      theme(plot.title = element_text(size = 15,hjust = 0.5),
+            strip.text = element_text(size = 15), 
+            legend.text=element_text(size=10))
+  })
+  
+ #Human Cancer: Known Causes and Prevention by Organ Site
+  output$mytable = DT::renderDataTable({
+    library(ggplot2)
+    library(treemapify)
+    library(treemap)
+    library(dplyr)
+    library(kableExtra)
+    
+    setwd("~/Desktop/IMO/")
+    MyPath<-"~/Desktop/IMO"
+    
+    df <- read.csv2("dataMono1976_2020_all_hemato.csv")
+    a<-table(df$cancer_site)
+    b<-as.data.frame(a)
+    df$cancer<-"Other cancer sites"
+    df$cancer[df$cancer_site=="B-and-T-lymphoma" |df$cancer_site=="B-cell neoplasm" | df$cancer_site=="T-cell lymphoma"]<-"Other B-and T-neoplasms"
+    df$cancer[df$cancer_site=="Hodgkin lymphoma" |df$cancer_site=="non-Hodgkin lymphoma" |df$cancer_site=="lymphoma"]<-"lymphomas"
+    df$cancer[df$cancer_site=="leukemia" ]<-"leukemia"
+    df1<-subset(df,df$cancer=="Other B-and T-neoplasms"|df$cancer=="lymphomas"|df$cancer=="leukemia")
+    df2<-subset(df1,df1$status=="adults")
+    df3<-df2[c(2,3,7,6,8,18,5)]
+    #df4<-df3[!duplicated(df3$agent,df3$cancer_subtype), ]
+    df5<-df3[order(df3$cancer),]
+    df6<-df5[c(3,1,2,5,4,7)]
+    DT::datatable(df6, options = list(orderClasses = TRUE))
+    
+    #knitr::kable(df5[c("cancer","cancer_subtype", "agent", "volume")])
+  })
+  
+  
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server)
+
