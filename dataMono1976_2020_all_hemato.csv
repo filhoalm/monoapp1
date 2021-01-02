@@ -1,0 +1,301 @@
+id;agent;cancer_subtype;evidence;year;volume;class;cancer_site;subClass;status;exposure;overall;keyCharact;index;eval;eval2;sex
+282;Tobacco smoking; pancreas;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;pancreas;Smoking;adults;;;;;sufficient evidence in humans;;
+259;Kaposi sarcoma herpes virus;(primary effusion);Lymph nodes (multicentric Castleman disease;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;acute myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+1;Busulfan;acute myeloid leukemia;;2012;100A;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);clonal chromosomal changes;1;sufficient evidence in humans;NA;
+299;Busulfan;acute myeloid leukemia;;;Sup 4 (1982);Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+6;Chlorambucil;acute myeloid leukemia;;2008;100A;Pharmacological agent;leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;
+300;Chlorambucil;acute myeloid leukemia;;;Sup 7 (1987);Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+7;Cyclophosphamide;acute myeloid leukemia;;2008;100A;Pharmacological agent;Leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;
+7;Cyclophosphamide;acute myeloid leukemia;;2008;100A;Pharmacological agent;Leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;
+302;Cyclophosphamide;acute myeloid leukemia;;;26 (1981) ;Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+328;Etoposide with cisplatin and bleomycin;acute myeloid leukemia;Leukemia (acute myeloid);;76 (2000);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+329;Melphalan;acute myeloid leukemia;Leukemia (acute myeloid);;Sup 1 - 1979;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+331;MOPP;acute myeloid leukemia;Leukemia (acute myeloid);;;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+336;Semustine (methyl-CCNU);acute myeloid leukemia;;;Sup 7 (1987);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+341;Treosulfan;acute myeloid leukemia;;;26 (1981);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+121;benzene;acute nonlymphocytic;acute lymphocytic;;7 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+121;benzene;acute nonlymphocytic;chronic lymphocytic;;8 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+121;benzene;acute nonlymphocytic;non-Hodgkin lymphoma;;10 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+121;benzene;acute nonlymphocytic;multiple myeloma;;9 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;"adenocarcinoma, squamous
+cell carcinoma";"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;oesophagus;Smoking;adults;;;;;sufficient evidence in humans;;
+273;Acetaldehyde associated with consumption of alcoholic beverages;Aerodigestive tract, upper;;;96 (2010);Personal habits;respiratory tract;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;
+149;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;Lung;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+150;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;non-Hodgkin lymphoma;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+151;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;soft tissue sarcoma;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;Anus;Larynx;;"64 (1995); 90 (2007) ";Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;
+241;HIV type 1;Anus*;"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;
+12;Helicobacter pylori;B-cell MALT gastric lymphoma;;1994;61;Biological agents;B-cell neoplasm;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;
+225;Solar radiation;basal cell carcinoma;"Eye (squamous cell carcinoma, melanoma); lip ";;55 (1992) 75 (2000);Radiation;skin;Neutron radiation<U+2021>;adults;;;;;sufficient evidence in humans;;
+204;Thorium-232 and its decay products ;Bile duct, extrahepatic;"Pancreas; prostate ";;78 (2001);Radiation;Bile duct, extrahepatic;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+7;Cyclophosphamide;bladder cancer;;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;
+7;Cyclophosphamide;bladder cancer;;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;
+208;Plutonium;Bone;Other solid tumors ;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+199;Radium-224 and its decay products;Bone;;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+200;Radium-226 and its decay products;Bone;;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+202;Radium-228 and its decay products;Bone;;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;bone;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;bone;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;brain and central nervous system ;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;brain and SNC;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+314;"
+Estrogen–progestogen menopausal therapy (combined)";breast;;;91 (2007);Pharmaceuticals;breast;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;breast;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;breast;Personal habits;adults;;;;;sufficient evidence in humans;;female
+307;Diethylstilbestrol;breast;"Exposure during pregnancy: endometrium; exposure in utero: cervix (squamous cell carcinoma) and testis";;"6 (1974); 21 (1979)";Pharmaceuticals;breast;Pharmaceuticals;adults;Exposure during pregnancy: breast;;;;sufficient evidence in humans;;
+313;Estrogen-progestogen contraceptives (combined);breast;;;"72 (1999); 91 (2007)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;
+131;Ethylene oxide;breast;;;"60 (1994); 97 (2008) ";Chemicals and mixtures;breast;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;female
+215;X radiation, gamma radiation;breast;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;breast;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;female
+231;Epstein-Barr Virus(EBV);Burkitt lymphoma;"Lymphoepithelial-like carcinoma; stomach ";;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+5;Epstein-Barr Virus(EBV);Burkitt's lymphoma;;1997;70;Biological agents;B-cell neoplasm;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;
+11;Formaldehyde;Cancer at other sites;;2004;88;Chemicals and mixtures;Others;;adults;;carcinogenic to humans (Group 1);No info;1;sufficient evidence in humans;NA;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;cancer of the lung;;2018;120;Chemicals and mixtures;Lung;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+313;Estrogen-progestogen contraceptives (combined);cervix;;;"72 (1999); 91 (2007)";Pharmaceuticals;cervix uteri;contraceptives ;adults;;;;;sufficient evidence in humans;;female
+241;HIV type 1;cervix;"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female
+244;Human papillomavirus type 16;cervix;Larynx;;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female
+247;Human papillomavirus type 18;cervix;"Anus; larynx; oral cavity; penis; vulva ";;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female
+248;Human papillomavirus type 33;cervix;"Anus; vulva ";;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female
+255;Human papillomavirus types 31,35, 39, 45, 51, 52, 56, 58, 59;cervix;;;90 (2007);Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female
+282;Tobacco smoking;cervix;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;cervix uteri;Smoking;adults;;;;;sufficient evidence in humans;;female
+307;Diethylstilbestrol;cervix (clear cell adenocarcinoma) ;"Exposure during pregnancy: endometrium; exposure in utero: cervix (squamous cell carcinoma) and testis";;"6 (1974); 21 (1979)";Pharmaceuticals;cervix uteri;Pharmaceuticals;adults;exposure in utero: ;;;;sufficient evidence in humans;;female
+13;hepatitis C virus;cholangiocarcinoma;;2012;100B;Biological agents;liver cancer;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;
+131;Ethylene oxide;chronic lymphocytic;;;"62 (1994); 97 (2008) ";Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic lymphoid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;chronic myeloid leukemia;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+269;Alcoholic beverages;colorectum;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;colorectum;Personal habits;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;colorectum;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;colorectum;Smoking;adults;;;;;sufficient evidence in humans;;
+312;Estrogen menopausal therapy;Endometrium;Breast;;"21 (1979); 72 (1999)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;female
+337;Tamoxifen;endometrium;;;66 (1996);Pharmaceuticals;endometrium;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+273;Acetaldehyde associated with consumption of alcoholic beverages;esophagus;;;96 (2010);Personal habits;oesophagus;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;esophagus;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;oesophagus;Personal habits;adults;;;;;sufficient evidence in humans;;
+277;Betel quid with tobacco;Esophagus;;;"37 (1985); 85 (2004)";Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;
+278;Betel quid without tobacco;Esophagus;liver;;85 (2004);Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;
+295;Tobacco, smokeless;Esophagus*;;;"37 (1985); 89 (2007)";Personal habits;oesophagus;Smokeless;adults;;;;;sufficient evidence in humans;;
+231;Epstein-Barr Virus(EBV);extranodal NK/T-cell, nasal type;"Lymphoepithelial-like carcinoma; stomach ";;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+241;HIV type 1;eye (conjunctiva);"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;eye;Virus;adults;;;;;sufficient evidence in humans;;
+171;Welding;eye (melanoma);;;;Occupations;eye;Occupations;adults;;;;;sufficient evidence in humans;;
+204;Thorium-232 and its decay products ;Gallbladder;"Pancreas; prostate ";;78 (2001);Radiation;Gallbladder;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+129;1,3-Butadiene;Hematolymphatic organs;;;97 (2008);Chemicals and mixtures;Hematolymphatic organs;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;hepatoblastoma;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;hepatic;Smoking;children;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;hepatocellular carcinoma;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;liver;Personal habits;adults;;;;;sufficient evidence in humans;;
+13;hepatitis C virus;hepatocelular carcinoma;;2012;100B;Biological agents;liver cancer;;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;
+13;hepatitis C viruses;hepatocelular carcinoma;;1994;59;Biological agents;liver cancer;Virus;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;
+5;Epstein-Barr Virus(EBV);Hodgkin lymphoma;;1997;70;Biological agents;Hodgkin lymphoma;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;
+231;Epstein-Barr Virus(EBV);Hodgkin lymphoma;"Lymphoepithelial-like carcinoma; stomach ";;70 (1997);Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+241;HIV type 1;Hodgkin lymphoma;"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;hypopharynx;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;
+231;Epstein-Barr Virus(EBV);immune suppression related;"Lymphoepithelial-like carcinoma; stomach ";;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+5;Epstein-Barr Virus(EBV);immunosuppression- related lymphoma;;1997;70;Biological agents;Immunosuppression;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;
+241;HIV type 1;Kaposi sarcoma;"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+259;Kaposi sarcoma herpes virus;Kaposi sarcoma;Lymph nodes (multicentric Castleman disease;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;kidney (body, renal pelvis);"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;kidney;Smoking;adults;;;;;sufficient evidence in humans;;
+116;Acid mists, strong inorganic;Larynx;Lung;;54 (1992);Chemicals and mixtures;larynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;larynx;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;larynx;Personal habits;adults;;;;;sufficient evidence in humans;;
+187;Asbestos (all forms);Larynx;"Colorectum; pharynx; stomach";;"2 (1973); 14 (1977)";Dusts and fibers;larynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;larynx;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;larynx;Smoking;adults;;;;;sufficient evidence in humans;;
+9;Etoposide with cisplatin and bleomycin;leukemia;;2000;76;Pharmacological agent;leukemia;;adults;;carcinogenic to humans (Group 1);chromosomal aberrations ;1;sufficient evidence in humans;NA;
+211;Fission products, including Strontium-90;leukemia;;;;Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+169;Rubber production industry;leukemia;"Larynx; esophagus; prostate";;28 (1982) ;Occupations;leukemia;Occupations;adults;;;;;sufficient evidence in humans;;
+340;Thiotepa;leukemia;;;50 (1990);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+257;Human T-cell lymphotropic virus type 1;leukemia;;;67 (1996);Biological agents;leukemia;Virus;adults;;;;;sufficient evidence in humans;;
+210;Phosphorus-32;acute leukemia;;;78 (2001);Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+204;Thorium-232 and its decay products ;leukemia;"Pancreas; prostate ";;78 (2001);Radiation;leukemia;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;leukemia;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+208;Plutonium;liver;Other solid tumors ;;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+155;Vinyl chloride;Liver (angiosarcoma, hepatocellular carcinoma);;;"7 (1974); 19 (1979); 97 (2008) ";Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+261;Clonorchis sinensis;Liver (cholangiocarcinoma);;;;Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;
+266;Opisthorchis viverrini;Liver (cholangiocarcinoma);;;61 (1994);Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;
+117;Aflatoxins;Liver (hepatocellular carcinoma);;;Suppl 7 (1987);Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+313;Estrogen-progestogen contraceptives (combined);liver (hepatocellular carcinoma);;;"72 (1999); 91 (2007)";Pharmaceuticals;liver;contraceptives ;adults;;;;;sufficient evidence in humans;;
+237;Hepatitis B virus;Liver (hepatocellular carcinoma);"Liver (cholangiocarcinoma); non-Hodgkin lymphoma ";;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;
+239;Hepatitis C virus;Liver (hepatocellular carcinoma);Liver (cholangiocarcinoma) ;;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;
+204;Thorium-232 and its decay products ;liver (including hemangiosarcoma) ;"Pancreas; prostate ";;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+262;Helicobacter pylori;low-grade B-cell  (gastric lymphoma);;;61 (1994);Biological agents;B-and-T-lymphoma;Bacteria;adults;;;;;sufficient evidence in humans;;
+158;Aluminum production;lung;;;"Sup 7 (1987); 92 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+172;Arsenic and inorganic arsenic ;lung;;;"2 (1973); 23 (1980); 84 (2004) ";Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;
+175;Beryllium and beryllium compounds;Lung;;;58 (1993);Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;
+176;Cadmium and cadmium compounds;Lung;Kidney;;58 (1993) ;Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;
+177;Chromium (VI) compounds#;Lung;Nasal cavity and paranasal sinus;;"2 (1973); 23 (1980); 49 (1990) ";Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;
+160;Coal gasification;lung;;;"34 (1984); 92 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+130;Coal tar pitch;lung;Urinary bladder;;"3 (1973); 35 (1985) ";Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+279;Coal, indoor emissions from household combustion;Lung;;;95 (2010);Personal habits;lung;Household combustion;adults;;;;;sufficient evidence in humans;;
+162;Coke production;lung;;;"34 (1984); 92 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+163;Hematite mining (underground);lung;;;1 (1972) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+164;Iron and steel founding;lung;;;Sup 7 (1987) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+331;MOPP (vincristine-prednisone-nitrogen mustard-procarbazine mixture);lung;;;26 (1987);Pharmaceuticals;skin;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+178;Nickel compounds ;lung;;;"2 (1973); 11 (1976); 49 (1990) ";Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;
+208;Plutonium;lung;Other solid tumors ;;78 (2001);Radiation;lung;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+198;Radon-222 and its decay products;Lung;Leukemia;;43 (1988);Radiation;lung;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+169;Rubber production industry;lung;"Larynx; esophagus; prostate";;28 (1982) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+191;Silica dust, crystalline (in the form Lung of quartz or crystobalite);lung;;;68 (1997);Dusts and fibers;lung;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+147;Soot;lung;Urinary bladder;;"3 (1973); 35 (1985) ";Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+148;Sulfur mustard;lung;Larynx;;9 (1975);Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+294;Tobacco smoke, secondhand;Lung;Larynx;;83 (2004);Personal habits;lung;Smoking;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;lung;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;lung;Smoking;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;lung;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;lung;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+169;Rubber production industry;lymphoma;"Larynx; esophagus; prostate";;28 (1982) ;Occupations;lymphoma;Occupations;adults;;;;;sufficient evidence in humans;;
+257;Human T-cell lymphotropic virus type 1;lymphoma (adult T-cell);;;67 (1996);Biological agents;T-cell lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+200;Radium-226 and its decay products;mastoid process;;;78 (2001);Radiation;mastoid process;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+202;Radium-228 and its decay products;mastoid process;;;78 (2001);Radiation;mastoid process;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+225;Solar radiation;melanoma;"Eye (squamous cell carcinoma, melanoma); lip ";;55 (1992) 75 (2000);Radiation;skin;Neutron radiation<U+2021>;adults;;;;;sufficient evidence in humans;;
+229;Ultraviolet-emitting tanning devices;melanoma;Skin (squamous cell carcinoma) ;;;Radiation;eye;Ultraviolet radiation<U+2021>;adults;;;;;sufficient evidence in humans;;
+229;Ultraviolet-emitting tanning devices;melanoma;Skin (squamous cell carcinoma) ;;;Radiation;skin;Ultraviolet radiation<U+2021>;adults;;;;;sufficient evidence in humans;;
+187;Asbestos (all forms);mesotelioma;"Colorectum; pharynx; stomach";;"2 (1973); 14 (1977)";Dusts and fibers;lung;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+189;Erionite;mesotelioma;;;42 (1987) ;Dusts and fibers;lung;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+167;Painting;mesotelioma;Maternal exposure: childhood leukemia ;;"47 (1989); 98 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+1;benzene;multiple myeloma;;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+131;Ethylene oxide;multiple myeloma;;;"63 (1994); 97 (2008) ";Chemicals and mixtures;multiple myeloma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+304;Cyclosporine;multiple other sites;;;50 (1990);Pharmaceuticals;other sites;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+11;Formaldehyde;myeloid leukemia;;2004;88;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);not possible to identify a mechanism;1;sufficient evidence in humans;NA;
+135;Formaldehyde;myeloid leukemia;Nasal cavity and paranasal sinus ;;88 (2006) ;Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;myeloid leukemia;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;leukemia;Smoking;adults;;;;;sufficient evidence in humans;;
+165;Isopropyl alcohol production;Nasal cavity and paranasal sinus;;;15 (1977) ;Occupations;nasal cavity;Occupations;adults;;;;;sufficient evidence in humans;;
+190;Leather dust;Nasal cavity and paranasal sinus;;;25 (1981);Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;nasal cavity and paranasal sinus;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;nasal cavity;Smoking;adults;;;;;sufficient evidence in humans;;
+193;Wood dust;Nasal cavity and paranasal sinus;;;"25 (1981); 62 (1995) ";Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+178;Nickel compounds ;nasal cavity and paranasal sinus ;;;"2 (1973); 11 (1976); 49 (1990)";Metals;nasal cavity;Metals;adults;;;;;sufficient evidence in humans;;
+231;Epstein-Barr Virus(EBV);nasopharyn;"Lymphoepithelial-like carcinoma; stomach ";;70 (1997);Biological agents;nasopharynx;Virus;adults;;;;;sufficient evidence in humans;;
+5;Epstein-Barr Virus(EBV);nasopharyngeal carcinoma;;1997;70;Biological agents;Nasopharynx;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;
+136;Formaldehyde;nasopharynx;;;88 (2006) ;Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+137;Methylenebis(2-chloroaniline)(MOCA);nasopharynx;;;99 (2010);Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+281;Salted fish, Chinese style;Nasopharynx;Stomach;;56 (1993);Personal habits;;Smoking;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;nasopharynx;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;
+194;Wood dust;nasopharynx*;;;"25 (1981); 62 (1995) ";Dusts and fibers;nasopharynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+8;Ciclosporin;non-Hodgkin lymphoma;;2008;100A;Pharmacological agent;non-Hodgkin lymphoma;Pharmacological immunosuppression agent;adults;;carcinogenic to humans (Group 1);Immunosuppression;1;sufficient evidence in humans;NA;
+12;Helicobacter pylori;non-cardia gastric carcinoma;;1994;61;Biological agents;Gastric cancer;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;
+3;1,3-Butadiene;non-Hodgkin lymphoma;;2008;97;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;
+4;Azathioprine;non-Hodgkin lymphoma;;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressant;1;sufficient evidence in humans;NA;
+4;Azathioprine;non-Hodgkin lymphoma;;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;
+297;Azathioprine;Non-Hodgkin lymphoma;;;26 (1981) ;Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;
+1;benzene;non-Hodgkin lymphoma;;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;
+304;Cyclosporine;Non-Hodgkin lymphoma;;;50 (1990);Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+131;Ethylene oxide;non-Hodgkin lymphoma;;;"61 (1994); 97 (2008) ";Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+13;hepatitis C virus;non-Hodgkin lymphoma;;2012;100B;Biological agents;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;
+239;hepatitis C virus;non-Hodgkin lymphoma;Liver (cholangiocarcinoma) ;;59 (1994);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+241;HIV type 1;non-Hodgkin lymphoma ;"Liver (hepatocellular carcinoma); penis; skin (non-melanoma); vagina; vulva ";;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;oesophagus;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;oesophagus;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;oral cavity;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;oral cavity;Personal habits;adults;;;;;sufficient evidence in humans;;
+277;Betel quid with tobacco;oral cavity;;;"37 (1985); 85 (2004)";Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;
+278;Betel quid without tobacco;oral cavity;liver;;85 (2004);Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;oral cavity;Larynx;;"64 (1995); 90 (2007) ";Biological agents;oral cavity;Virus;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;oral cavity;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;oral cavity;Smoking;adults;;;;;sufficient evidence in humans;;
+295;Tobacco, smokeless;oral cavity;;;"37 (1985); 89 (2007)";Personal habits;oral cavity;Smokeless;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;oropharynx;Larynx;;"64 (1995); 90 (2007) ";Biological agents;oropharynx;Virus;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;oropharynx;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;
+187;Asbestos (all forms);ovary;"Colorectum; pharynx; stomach";;"2 (1973); 14 (1977)";Dusts and fibers;ovary;Dusts and fibers;adults;;;;;sufficient evidence in humans;;
+312;Estrogen menopausal therapy;ovary;Breast;;"21 (1979); 72 (1999)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;female
+313;Estrogen-progestogen contraceptives (combined);ovary;;;"72 (1999); 91 (2007)";Pharmaceuticals;ovary;contraceptives ;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;ovary (mucinous);"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;ovary;Smoking;adults;;;;;sufficient evidence in humans;;
+295;Tobacco, smokeless;pancreas;;;"37 (1985); 89 (2007)";Personal habits;pancreas;Smokeless;adults;;;;;sufficient evidence in humans;;
+200;Radium-226 and its decay products;paranasal sinus;;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+202;Radium-228 and its decay products;paranasal sinus;;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;penis;Larynx;;"64 (1995); 90 (2007) ";Biological agents;penis;Virus;adults;;;;;sufficient evidence in humans;;
+277;Betel quid with tobacco;pharynx;;;"37 (1985); 85 (2004)";Personal habits;pharynx;Areca nut‡;adults;;;;;sufficient evidence in humans;;
+269;Alcoholic beverages;pharynx ;"Pancreas; prostate ";;"44 (1988); 96 (2010)";Personal habits;pharynx;Personal habits;adults;;;;;sufficient evidence in humans;;
+120;Aristolochic acid, plants containing;Renal pelvis;;;;Chemicals and mixtures;renal pelvis;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+333;Phenacetin;Renal pelvis;;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+334;Phenacetin, analgesic mixtures containing;Renal pelvis;;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;salivary gland;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;salivary gland;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+5;Epstein-Barr Virus(EBV);sinonasal angimentric T-cell lymphoma;;1997;70;Biological agents;T-cell lymphoma;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;
+11;Formaldehyde;Sinonasal cancer;;2004;88;Chemicals and mixtures;Nasal cavity cancer;;adults;;carcinogenic to humans (Group 1);genotoxicty;1;sufficient evidence in humans;NA;
+11;Formaldehyde;Sinonasal cancer;;2004;88;Chemicals and mixtures;Nasal cavity cancer;;adults;;carcinogenic to humans (Group 1);cytoxicity;1;sufficient evidence in humans;NA;
+173;Arsenic and inorganic arsenic ;skin;;;"2 (1973); 23 (1980); 84 (2004) ";Metals;skin;Metals;adults;;;;;sufficient evidence in humans;;
+161;Coal tar distillation;Skin;;;"34 (1984); 92 (2010) ";Occupations;skin;Occupations;adults;;;;;sufficient evidence in humans;;
+131;Coal tar pitch;skin;;;"4 (1973); 35 (1985) ";Chemicals and mixtures;skin;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+139;Mineral oils, untreated or mildly treated;Skin;;;"3 (1973); 33 (1984) ";Chemicals and mixtures;skin;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+146;Shale oils;Skin;;;3 (1973);Chemicals and mixtures;skin;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;skin (basal cell carcinoma) ;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;skin;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+304;Cyclosporine;skin (non-melanocytic);;;50 (1990);Pharmaceuticals;skin;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+211;Fission products, including Strontium-90;solid cancer;;;;Radiation;solid cancers;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+4;Azathioprine;squamous cell carcinoma;;2012;100A;Chemicals and mixtures;cancer of the skin;;adults;;carcinogenic to humans (Group 1);immunosuppressant;1;sufficient evidence in humans;NA;
+4;Azathioprine;squamous cell carcinoma;;2012;100A;Chemicals and mixtures;cancer of the skin;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;
+297;Azathioprine;squamous cell carcinoma;;;26 (1981) ;Pharmaceuticals;skin;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+330;Methoxsalen plus ultraviolet A;squamous cell carcinoma;Leukemia (acute myeloid);;24-1980;Pharmaceuticals;skin;Etoposide‡;adults;;;;;sufficient evidence in humans;;
+225;Solar radiation;squamous cell carcinoma;"Eye (squamous cell carcinoma, melanoma); lip ";;55 (1992) 75 (2000);Radiation;skin;Neutron radiation<U+2021>;adults;;;;;sufficient evidence in humans;;
+8;Ciclosporin;squamous cell carcinoma of the skin;;2008;100A;Pharmacological agent;Skin cancer;Pharmacological immunosuppression agent;adults;;carcinogenic to humans (Group 1);Immunosuppression;1;sufficient evidence in humans;NA;
+169;Rubber production industry;stomach;"Larynx; esophagus; prostate";;28 (1982) ;Occupations;stomach;Occupations;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;stomach;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;stomach;Smoking;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;stomach;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;stomach;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+262;Helicobacter pylori;stomach (noncardia carcinoma) ;;;61 (1994);Biological agents;stomach;Bacteria;adults;;;;;sufficient evidence in humans;;
+213;Radioiodines, including Iodine-131 ;thyroid;"Bone and soft tissue; digestive tract; leukemia; salivary gland ";;78 (2001);Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;thyroid;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;tonsil;Larynx;;"64 (1995); 90 (2007) ";Biological agents;tosil;Virus;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;ureter;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;ureter;Smoking;adults;;;;;sufficient evidence in humans;;
+141;2-Naphthylamine ;Urinary bladder;;;4 (1974);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+118;4-Aminobiphenyl;Urinary bladder;;;1 (1972);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+158;Aluminum production;Urinary bladder;;;"Sup 7 (1987); 92 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;
+119;Aristolochic acid<U+2021>;Urinary bladder;Renal pelvis;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+159;Auramine production;Urinary bladder;;;"1 (1972); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;
+124;Benzidine;Urinary bladder;;;"1 (1972); 29 (1982); 99 (2010) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+125;Benzidine, dyes metabolized to<U+2021>;Urinary bladder;;;99-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+126;Benzo[a]pyrene<U+2021>;Urinary bladder;;;92-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+127;Bis(chloromethyl)ether methyl ether (technical grade);Urinary bladder;;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+301;Chlornaphazine;Urinary bladder;;;4 (1974);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+302;Cyclophosphamide;urinary bladder;;;26 (1981);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+166;Magenta production;Urinary bladder;;;"Sup 7 (1987); 57 (1993); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;
+154;Ortho-Toluidine;Urinary bladder;;;99 (2010);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+167;Painting;urinary bladder;Maternal exposure: childhood leukemia ;;"47 (1989); 98 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;
+267;Schistosoma haematobium;Urinary bladder;;;61 (1994);Biological agents;bladder;Parasite;adults;;;;;sufficient evidence in humans;;
+282;Tobacco smoking;urinary bladder;"Breast; in smokers’ children:
+childhood leukemia (particularly acute lymphocytic)";;"38 (1986); 83 (2004)";Personal habits;bladder;Smoking;adults;;;;;sufficient evidence in humans;;
+142;Tobacco-specific nitrosamines: nitrosonornicotine (NNN) and nitrosonornicotine (NNN) and 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone (NNK);Urinary bladder;;;"4 (1974); 99 (2010);89 (2007)";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+174;Arsenic and inorganic arsenic ;urinary bladder ;;;"2 (1973); 23 (1980); 84 (2004) ";Metals;bladder;Metals;adults;;;;;sufficient evidence in humans;;
+169;Rubber production industry;urinary bladder ;"Larynx; esophagus; prostate";;28 (1982) ;Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;
+215;X radiation, gamma radiation;urinary bladder ;"Liver; multiple myeloma; non-Hodgkin lymphoma; ovary; pancreas; prostate; rectum ";;75 (2000) ;Radiation;bladder;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;vagina;Larynx;;"64 (1995); 90 (2007) ";Biological agents;vagina;Virus;adults;;;;;sufficient evidence in humans;;
+307;Diethylstilbestrol;vagina (clear cell adenocarcinoma);"Exposure during pregnancy: endometrium; exposure in utero: cervix (squamous cell carcinoma) and testis";;"6 (1974); 21 (1979)";Pharmaceuticals;vagina;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;
+244;Human papillomavirus type 16;vulva;Larynx;;"64 (1995); 90 (2007) ";Biological agents;vulva;Virus;adults;;;;;sufficient evidence in humans;;
+153;2,3,4,7,8-Pentachlorodibenzofuran;;;;;Chemicals and mixtures;;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+152;3,4,5,3,4-Pentachlorobiphenyl (PCB-126);;;;;Chemicals and mixtures;;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;
+197;Alpha-particle emitters;;;;78 (2001) ;Radiation;;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;
