@@ -1,113 +1,97 @@
 ﻿id;agent;cancer_subtype;evidence;year;volume;class;cancer_site;subClass;status;exposure;overall;keyCharact;index;eval;eval2;sex;organ
-151;2,3,7,8-Tetrachlorodibenzo-para-dioxin;sarcoma;limited;;69 (1997);Chemicals and mixtures;soft tissue;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Connective tissues
-213;Radioiodines, including Iodine-131 ;soft tissue;limited;;78 (2001);Radiation;soft tissue;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Connective tissues
+149;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
+150;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
+151;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
+241;HIV type 1;anus;sufficient ;;67 (1996) ;Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;;Digestive tract
+244;Human papillomavirus type 16;anus;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;;Digestive tract
+247;Human papillomavirus type 18;anus;limited;;"64 (1995); 90 (2007) ";Biological agents;anus;Virus;adults;;;;;limited evidence in humans;;female;Digestive tract
+5;Epstein-Barr Virus(EBV);Burkitt's lymphoma;sufficient ;1997;70;Biological agents;B-and-T-cell neoplasms;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+5;Epstein-Barr Virus(EBV);sinonasal angimentric T-cell lymphoma;sufficient ;1997;70;Biological agents;B-and-T-cell neoplasms;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+12;Helicobacter pylori;B-cell MALT gastric lymphoma;sufficient ;1994;61;Biological agents;B-and-T-cell neoplasms;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+262;Helicobacter pylori;low-grade B-cell  (gastric lymphoma);sufficient ;;61 (1994);Biological agents;B-and-T-cell neoplasms;Bacteria;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+257;Human T-cell lymphotropic virus type 1;T-cell lymphoma;sufficient ;;67 (1996);Biological agents;B-and-T-cell neoplasms;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+204;Thorium-232 and its decay products ;Bile duct, extrahepatic;sufficient ;;78 (2001);Radiation;Bile duct, extrahepatic;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
+141;2-Naphthylamine ;Urinary bladder;sufficient ;;4 (1974);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+118;4-Aminobiphenyl;Urinary bladder;sufficient ;;1 (1972);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+158;Aluminum production;Urinary bladder;sufficient ;;"Sup 7 (1987); 92 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
+119;Aristolochic acid;Urinary bladder;sufficient ;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+174;Arsenic and inorganic arsenic ;urinary bladder ;sufficient ;;"2 (1973); 23 (1980); 84 (2004) ";Metals;bladder;Metals;adults;;;;;sufficient evidence in humans;;;Urothelium 
+159;Auramine production;Urinary bladder;sufficient ;;"1 (1972); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
+124;Benzidine;Urinary bladder;sufficient ;;"1 (1972); 29 (1982); 99 (2010) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+125;Benzidine, dyes metabolized ;Urinary bladder;sufficient ;;99-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+126;Benzo[a]pyrene;Urinary bladder;sufficient ;;92-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+127;Bis(chloromethyl)ether methyl ether (technical grade);Urinary bladder;sufficient ;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+301;Chlornaphazine;Urinary bladder;sufficient ;;4 (1974);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Urothelium 
+130;Coal tar pitch;Urinary bladder;limited;;"3 (1973); 35 (1985) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
+7;Cyclophosphamide;bladder cancer;sufficient ;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Urothelium 
+7;Cyclophosphamide;bladder cancer;sufficient ;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Urothelium 
+302;Cyclophosphamide;urinary bladder;sufficient ;;26 (1981);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Urothelium 
+166;Magenta production;Urinary bladder;sufficient ;;"Sup 7 (1987); 57 (1993); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
+154;Ortho-Toluidine;Urinary bladder;sufficient ;;99 (2010);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+167;Painting;urinary bladder;sufficient ;;"47 (1989); 98 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
+169;Rubber production industry;urinary bladder ;sufficient ;;28 (1982) ;Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
+267;Schistosoma haematobium;Urinary bladder;sufficient ;;61 (1994);Biological agents;bladder;Parasite;adults;;;;;sufficient evidence in humans;;;Urothelium 
+147;Soot;Urinary bladder;limited;;"3 (1973); 35 (1985) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
+282;Tobacco smoking;urinary bladder;sufficient ;;"38 (1986); 83 (2004)";Personal habits;bladder;Smoking;adults;;;;;sufficient evidence in humans;;;Urothelium 
+142;Tobacco-specific nitrosamines;Urinary bladder;sufficient ;;"4 (1974); 99 (2010);89 (2007)";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+215;X radiation, gamma radiation;urinary bladder ;sufficient ;;75 (2000) ;Radiation;bladder;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Urothelium 
 208;Plutonium;bone;sufficient ;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Connective tissues 
 213;Radioiodines, including Iodine-131 ;bone;limited;;78 (2001);Radiation;bone;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Connective tissues 
 199;Radium-224 and its decay products;bone;sufficient ;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Connective tissues 
 200;Radium-226 and its decay products;bone;sufficient ;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Connective tissues 
 202;Radium-228 and its decay products;bone;sufficient ;;78 (2001);Radiation;bone;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Connective tissues 
 215;X radiation, gamma radiation;bone;sufficient ;;75 (2000) ;Radiation;bone;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Connective tissues 
-117;Aflatoxins;hepatocellular carcinoma;sufficient ;;Suppl 7 (1987);Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-269;Alcoholic beverages;hepatocellular carcinoma;sufficient ;;"44 (1988); 96 (2010)";Personal habits;liver;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-269;Alcoholic beverages;pancreas;limited;;"44 (1988); 96 (2010)";Personal habits;pancreas;Personal habits;adults;;;;;limited evidence in humans;;female;Digestive organs 
-278;Betel quid without tobacco;liver;limited;;85 (2004);Personal habits;liver;Areca nut‡;adults;;;;;limited evidence in humans;;;Digestive organs 
-261;Clonorchis sinensis;cholangiocarcinoma;sufficient ;;;Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-313;Estrogen-progestogen contraceptives (combined);hepatocellular carcinoma;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;liver;contraceptives ;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-12;Helicobacter pylori;non-cardia gastric carcinoma;sufficient ;1994;61;Biological agents;gastric cancer;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;;Digestive organs 
-237;Hepatitis B virus;cholangiocarcinoma;limited;;59 (1994);Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
-237;Hepatitis B virus;hepatocellular carcinoma;sufficient ;;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-239;Hepatitis C virus;cholangiocarcinoma;limited;;59 (1994);Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
-13;hepatitis C virus;cholangiocarcinoma;sufficient ;2012;100B;Biological agents;liver;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;;Digestive organs 
-13;hepatitis C virus;hepatocelular carcinoma;sufficient ;2012;100B;Biological agents;liver;;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;;Digestive organs 
-239;Hepatitis C virus;hepatocellular carcinoma;sufficient ;;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-13;hepatitis C viruses;hepatocelular carcinoma;sufficient ;1994;59;Biological agents;liver;Virus;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;;Digestive organs 
-241;HIV type 1;hepatocellular carcinoma;limited;;67 (1996) ;Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
-266;Opisthorchis viverrini;cholangiocarcinoma;sufficient ;;61 (1994);Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-208;Plutonium;liver;sufficient ;;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
-204;Thorium-232 and its decay products ;Bile duct, extrahepatic;sufficient ;;78 (2001);Radiation;Bile duct, extrahepatic;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
-204;Thorium-232 and its decay products ;Gallbladder;sufficient ;;78 (2001);Radiation;Gallbladder;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
-204;Thorium-232 and its decay products ;liver;sufficient ;;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
-204;Thorium-232 and its decay products ;pancreas;limited;;78 (2001);Radiation;pancreas;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Digestive organs 
-204;Thorium-232 and its decay products ;pancreas;limited;;78 (2001);Radiation;pancreas;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Digestive organs 
-282;Tobacco smoking; pancreas;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pancreas;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-282;Tobacco smoking;hepatoblastoma;sufficient ;;"38 (1986); 83 (2004)";Personal habits;liver ;Smoking;children;;;;;sufficient evidence in humans;;;Digestive organs 
-295;Tobacco, smokeless;pancreas;sufficient ;;"37 (1985); 89 (2007)";Personal habits;pancreas;Smokeless;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-155;Vinyl chloride;hepatocellular carcinoma;sufficient ;;"7 (1974); 19 (1979); 97 (2008) ";Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Digestive organs 
-215;X radiation, gamma radiation;liver;limited;;75 (2000) ;Radiation;liver;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive organs 
-215;X radiation, gamma radiation;pancreas;limited;;75 (2000) ;Radiation;pancreas;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive organs 
-273;Acetaldehyde, consumption of alcoholic beverages;esophagus;sufficient ;;96 (2010);Personal habits;oesophagus;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;;Digestive tract
-269;Alcoholic beverages;colorectum;sufficient ;;"44 (1988); 96 (2010)";Personal habits;colorectum;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive tract
-269;Alcoholic beverages;esophagus;sufficient ;;"44 (1988); 96 (2010)";Personal habits;oesophagus;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive tract
-187;Asbestos (all forms);colorectum;limited;;"2 (1973); 14 (1977)";Dusts and fibers;colorectum;Dusts and fibers;adults;;;;;limited evidence in humans;;;Digestive tract
-187;Asbestos (all forms);stomach;limited;;"2 (1973); 14 (1977)";Dusts and fibers;stomach;Dusts and fibers;adults;;;;;limited evidence in humans;;;Digestive tract
-277;Betel quid with tobacco;esophagus;sufficient ;;"37 (1985); 85 (2004)";Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Digestive tract
-278;Betel quid without tobacco;esophagus;sufficient ;;85 (2004);Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Digestive tract
-231;Epstein-Barr Virus(EBV);stomach;limited;;70 (1997);Biological agents;stomach;Virus;adults;;;;;limited evidence in humans;;;Digestive tract
-262;Helicobacter pylori;stomach (noncardia carcinoma) ;sufficient ;;61 (1994);Biological agents;stomach;Bacteria;adults;;;;;sufficient evidence in humans;;;Digestive tract
-241;HIV type 1;anus;sufficient ;;67 (1996) ;Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;;Digestive tract
-244;Human papillomavirus type 16;anus;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;anus;Virus;adults;;;;;sufficient evidence in humans;;;Digestive tract
-247;Human papillomavirus type 18;anus;limited;;"64 (1995); 90 (2007) ";Biological agents;anus;Virus;adults;;;;;limited evidence in humans;;female;Digestive tract
-213;Radioiodines, including Iodine-131 ;digestive tract;limited;;79 (2001);Radiation;Gastric cancer;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive tract
-169;Rubber production industry;oesophagus;limited;;28 (1982) ;Occupations;oesophagus;Occupations;adults;;;;;limited evidence in humans;;;Digestive tract
-169;Rubber production industry;stomach;sufficient ;;28 (1982) ;Occupations;stomach;Occupations;adults;;;;;sufficient evidence in humans;;;Digestive tract
-281;Salted fish, Chinese style;stomach;limited;;56 (1993);Personal habits;stomach;Smoking;adults;;;;;limited evidence in humans;;;Digestive tract
-282;Tobacco smoking;"adenocarcinoma, squamous
-cell carcinoma";sufficient ;;"38 (1986); 83 (2004)";Personal habits;oesophagus;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
-282;Tobacco smoking;colorectum;sufficient ;;"38 (1986); 83 (2004)";Personal habits;colorectum;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
-282;Tobacco smoking;stomach;sufficient ;;"38 (1986); 83 (2004)";Personal habits;stomach;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
-295;Tobacco, smokeless;esophagus;sufficient ;;"37 (1985); 89 (2007)";Personal habits;oesophagus;Smokeless;adults;;;;;sufficient evidence in humans;;;Digestive tract
-215;X radiation, gamma radiation;oesophagus;sufficient ;;75 (2000) ;Radiation;oesophagus;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Digestive tract
-215;X radiation, gamma radiation;rectum;limited;;75 (2000) ;Radiation;rectum;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive tract
-215;X radiation, gamma radiation;stomach;sufficient ;;75 (2000) ;Radiation;stomach;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Digestive tract
-213;Radioiodines, including Iodine-131 ;thyroid;sufficient ;;78 (2001);Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Endocrine system
-215;X radiation, gamma radiation;thyroid;sufficient ;;75 (2000) ;Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Endocrine system
+215;X radiation, gamma radiation;brain and central nervous system ;sufficient ;;75 (2000) ;Radiation;brain and SNC;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
 314;"
 Estrogen, progestogen combined";breast;sufficient ;;91 (2007);Pharmaceuticals;breast;Etoposide;adults;menopausal therapy;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 269;Alcoholic beverages;breast;sufficient ;;"44 (1988); 96 (2010)";Personal habits;breast;Personal habits;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-187;Asbestos (all forms);ovary;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;ovary;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 307;Diethylstilbestrol;breast;sufficient ;;"6 (1974); 21 (1979)";Pharmaceuticals;breast;Pharmaceuticals;adults;Exposure during pregnancy: breast;;;;sufficient evidence in humans;;;Female breast and reproductive organs
-307;Diethylstilbestrol;clear cell adenocarcinoma;sufficient ;;"6 (1974); 21 (1979)";Pharmaceuticals;cervix uteri;Pharmaceuticals;adults;exposure in utero: ;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-307;Diethylstilbestrol;cervix uteri;limited;;"6 (1974); 21 (1979)";Pharmaceuticals;cervix uteri;Pharmaceuticals;adults;exposure in utero;;;;limited evidence in humans;;;Female breast and reproductive organs
-307;Diethylstilbestrol;endometrium;limited;;"6 (1974); 21 (1979)";Pharmaceuticals;endometrium;Pharmaceuticals;adults;Exposure during pregnancy: breast;;;;limited evidence in humans;;;Female breast and reproductive organs
-307;Diethylstilbestrol;vagina (clear cell adenocarcinoma);sufficient ;;"6 (1974); 21 (1979)";Pharmaceuticals;vagina;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 312;Estrogen menopausal therapy;breast;limited;;"21 (1979); 72 (1999)";Pharmaceuticals;breast;contraceptives ;adults;;;;;limited evidence in humans;;female;Female breast and reproductive organs
 312;Estrogen menopausal therapy;endometrium;sufficient ;;"21 (1979); 72 (1999)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
 312;Estrogen menopausal therapy;ovary;sufficient ;;"21 (1979); 72 (1999)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
 313;Estrogen-progestogen contraceptives (combined);breast;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;breast;contraceptives ;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
-313;Estrogen-progestogen contraceptives (combined);cervix;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;cervix uteri;contraceptives ;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-313;Estrogen-progestogen contraceptives (combined);ovary;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;ovary;contraceptives ;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 131;Ethylene oxide;breast;sufficient ;;"60 (1994); 97 (2008) ";Chemicals and mixtures;breast;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
+282;Tobacco smoking;breast;limited;;"38 (1986); 83 (2004)";Personal habits;breast;Smoking;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+215;X radiation, gamma radiation;breast;sufficient ;;75 (2000) ;Radiation;breast;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
+307;Diethylstilbestrol;clear cell adenocarcinoma;sufficient ;;"6 (1974); 21 (1979)";Pharmaceuticals;cervix uteri;Pharmaceuticals;adults;exposure in utero: ;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
+307;Diethylstilbestrol;cervix uteri;limited;;"6 (1974); 21 (1979)";Pharmaceuticals;cervix uteri;Pharmaceuticals;adults;exposure in utero;;;;limited evidence in humans;;;Female breast and reproductive organs
+313;Estrogen-progestogen contraceptives (combined);cervix;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;cervix uteri;contraceptives ;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
 241;HIV type 1;cervix;sufficient ;;67 (1996) ;Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-241;HIV type 1;vagina;limited;;67 (1996) ;Biological agents;vagina;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
-241;HIV type 1;vulva;limited;;67 (1996) ;Biological agents;vulva;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
 244;Human papillomavirus type 16;cervix;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-244;Human papillomavirus type 16;vagina;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;vagina;Virus;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
-244;Human papillomavirus type 16;vulva;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;vulva;Virus;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 247;Human papillomavirus type 18;cervix;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-247;Human papillomavirus type 18;vulva;limited;;"68 (1995); 90 (2007) ";Biological agents;vagina;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
 248;Human papillomavirus type 33;cervix;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
 255;Human papillomavirus types 31,35, 39, 45, 51, 52, 56, 58, 59;cervix;sufficient ;;90 (2007);Biological agents;cervix uteri;Virus;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-337;Tamoxifen;endometrium;sufficient ;;66 (1996);Pharmaceuticals;endometrium;Etoposide‡;adults;;;;;sufficient evidence in humans;;;female breast and reproductive organs
-282;Tobacco smoking;breast;limited;;"38 (1986); 83 (2004)";Personal habits;breast;Smoking;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
 282;Tobacco smoking;cervix;sufficient ;;"38 (1986); 83 (2004)";Personal habits;cervix uteri;Smoking;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-282;Tobacco smoking;ovary (mucinous);sufficient ;;"38 (1986); 83 (2004)";Personal habits;ovary;Smoking;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
-215;X radiation, gamma radiation;breast;sufficient ;;75 (2000) ;Radiation;breast;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;female;Female breast and reproductive organs
-215;X radiation, gamma radiation;ovary;limited;;75 (2000) ;Radiation;ovary;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+269;Alcoholic beverages;colorectum;sufficient ;;"44 (1988); 96 (2010)";Personal habits;colorectum;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive tract
+187;Asbestos (all forms);colorectum;limited;;"2 (1973); 14 (1977)";Dusts and fibers;colorectum;Dusts and fibers;adults;;;;;limited evidence in humans;;;Digestive tract
+282;Tobacco smoking;colorectum;sufficient ;;"38 (1986); 83 (2004)";Personal habits;colorectum;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
+200;Radium-226 and its decay products;mastoid process;sufficient ;;78 (2001);Radiation;ear;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;
+202;Radium-228 and its decay products;mastoid process;sufficient ;;78 (2001);Radiation;ear;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;
+307;Diethylstilbestrol;endometrium;limited;;"6 (1974); 21 (1979)";Pharmaceuticals;endometrium;Pharmaceuticals;adults;Exposure during pregnancy: breast;;;;limited evidence in humans;;;Female breast and reproductive organs
+337;Tamoxifen;endometrium;sufficient ;;66 (1996);Pharmaceuticals;endometrium;Etoposide‡;adults;;;;;sufficient evidence in humans;;;female breast and reproductive organs
+241;HIV type 1;eye (conjunctiva);sufficient ;;67 (1996) ;Biological agents;eye;Virus;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
+225;Solar radiation;squamous cell carcinoma;limited;;55 (1992) 75 (2000);Radiation;Eye;Neutron radiation<U+2021>;adults;;;;;limited evidence in humans;;;Nervous system and eye
+229;Ultraviolet-emitting tanning devices;melanoma;sufficient ;;;Radiation;eye;Ultraviolet radiation<U+2021>;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
+171;Welding;eye (melanoma);sufficient ;;;Occupations;eye;Occupations;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
+204;Thorium-232 and its decay products ;Gallbladder;sufficient ;;78 (2001);Radiation;gallbladder;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
+12;Helicobacter pylori;non-cardia gastric carcinoma;sufficient ;1994;61;Biological agents;gastric cancer;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;;Digestive organs 
+213;Radioiodines, including Iodine-131 ;digestive tract;limited;;79 (2001);Radiation;gastric cancer;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive tract
+231;Epstein-Barr Virus(EBV);Hodgkin lymphoma;sufficient ;;70 (1997);Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+5;Epstein-Barr Virus(EBV);Hodgkin lymphoma;sufficient ;1997;70;Biological agents;Hodgkin lymphoma;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+241;HIV type 1;Hodgkin lymphoma;sufficient ;;67 (1996) ;Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+5;Epstein-Barr Virus(EBV);immunosuppression- related lymphoma;sufficient ;1997;70;Biological agents;Immunosuppression;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 176;Cadmium and cadmium compounds;Kidney;limited;;58 (1993) ;Metals;kidney;Metals;adults;;;;;limited evidence in humans;;;Kidney
 282;Tobacco smoking;kidney (body, renal pelvis);sufficient ;;"38 (1986); 83 (2004)";Personal habits;kidney;Smoking;adults;;;;;sufficient evidence in humans;;;Kidney
-129;1,3-Butadiene;hematolymphatic organs;sufficient ;;97 (2008);Chemicals and mixtures;lymphoma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-3;1,3-Butadiene;non-Hodgkin lymphoma;sufficient ;2008;97;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-150;2,3,7,8-Tetrachlorodibenzo-para-dioxin;non-Hodgkin lymphoma;limited;;69 (1997);Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-4;Azathioprine;non-Hodgkin lymphoma;sufficient ;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressant;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-4;Azathioprine;non-Hodgkin lymphoma;sufficient ;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-297;Azathioprine;Non-Hodgkin lymphoma;sufficient ;;26 (1981) ;Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+116;Acid mists, strong inorganic;larynx;sufficient ;;54 (1992);Chemicals and mixtures;larynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Respiratory system
+269;Alcoholic beverages;larynx;sufficient ;;"44 (1988); 96 (2010)";Personal habits;larynx;Personal habits;adults;;;;;sufficient evidence in humans;;;Respiratory system
+187;Asbestos (all forms);larynx;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;larynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Respiratory system
+244;Human papillomavirus type 16;larynx;limited;;"64 (1995); 90 (2007) ";Biological agents;larynx;Virus;adults;;;;;limited evidence in humans;;;Respiratory system
+247;Human papillomavirus type 18;larynx;limited;;"65 (1995); 90 (2007) ";Biological agents;larynx;Virus;adults;;;;;limited evidence in humans;;;Respiratory system
+169;Rubber production industry;larynx;limited;;28 (1982) ;Occupations;larynx;Occupations;adults;;;;;limited evidence in humans;;;Respiratory system
+148;Sulfur mustard;larynx;limited;;9 (1975);Chemicals and mixtures;larynx;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Respiratory system
+294;Tobacco smoke, secondhand;larynx;limited;;83 (2004);Personal habits;larynx;Smoking;adults;;;;;limited evidence in humans;;;Respiratory system
+282;Tobacco smoking;larynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;larynx;Smoking;adults;;;;;sufficient evidence in humans;;;Respiratory system
 121;benzene;acute lymphocytic;limited;;7 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
 121;benzene;acute nonlymphocytic;sufficient ;;7 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 121;benzene;acute nonlymphocytic;sufficient ;;8 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 121;benzene;acute nonlymphocytic;sufficient ;;9 (1974);Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
@@ -137,96 +121,68 @@ Estrogen, progestogen combined";breast;sufficient ;;91 (2007);Pharmaceuticals;br
 1;benzene;multiple myeloma;sufficient ;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
 1;benzene;multiple myeloma;sufficient ;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
 1;benzene;multiple myeloma;sufficient ;2018;120;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-121;benzene;multiple myeloma;limited;;9 (1974);Chemicals and mixtures;multiple myeloma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-121;benzene;non-Hodgkin lymphoma;limited;;10 (1974);Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
-1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
 1;Busulfan;acute myeloid leukemia;sufficient ;2012;100A;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);clonal chromosomal changes;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 299;Busulfan;acute myeloid leukemia;sufficient ;;Sup 4 (1982);Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 6;Chlorambucil;acute myeloid leukemia;sufficient ;2008;100A;Pharmacological agent;leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 300;Chlorambucil;acute myeloid leukemia;sufficient ;;Sup 7 (1987);Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-8;Ciclosporin;non-Hodgkin lymphoma;sufficient ;2008;100A;Pharmacological agent;non-Hodgkin lymphoma;Pharmacological immunosuppression agent;adults;;carcinogenic to humans (Group 1);Immunosuppression;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-7;Cyclophosphamide;acute myeloid leukemia;sufficient ;2008;100A;Pharmacological agent;Leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-7;Cyclophosphamide;acute myeloid leukemia;sufficient ;2008;100A;Pharmacological agent;Leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+7;Cyclophosphamide;acute myeloid leukemia;sufficient ;2008;100A;Pharmacological agent;leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+7;Cyclophosphamide;acute myeloid leukemia;sufficient ;2008;100A;Pharmacological agent;leukemia;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 302;Cyclophosphamide;acute myeloid leukemia;sufficient ;;26 (1981) ;Pharmaceuticals;leukemia;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-304;Cyclosporine;Non-Hodgkin lymphoma;sufficient ;;50 (1990);Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-231;Epstein-Barr Virus(EBV);Burkitt lymphoma;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-5;Epstein-Barr Virus(EBV);Burkitt's lymphoma;sufficient ;1997;70;Biological agents;B-and-T-cell neoplasms;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-231;Epstein-Barr Virus(EBV);extranodal NK/T-cell, nasal type;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-231;Epstein-Barr Virus(EBV);Hodgkin lymphoma;sufficient ;;70 (1997);Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-5;Epstein-Barr Virus(EBV);Hodgkin lymphoma;sufficient ;1997;70;Biological agents;Hodgkin lymphoma;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-231;Epstein-Barr Virus(EBV);immune suppression related;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-5;Epstein-Barr Virus(EBV);immunosuppression- related lymphoma;sufficient ;1997;70;Biological agents;Immunosuppression;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-5;Epstein-Barr Virus(EBV);sinonasal angimentric T-cell lymphoma;sufficient ;1997;70;Biological agents;B-and-T-cell neoplasms;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 131;Ethylene oxide;chronic lymphocytic;sufficient ;;"62 (1994); 97 (2008) ";Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-131;Ethylene oxide;multiple myeloma;sufficient ;;"63 (1994); 97 (2008) ";Chemicals and mixtures;multiple myeloma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-131;Ethylene oxide;non-Hodgkin lymphoma;sufficient ;;"61 (1994); 97 (2008) ";Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 328;Etoposide with cisplatin and bleomycin;acute myeloid;limited;;76 (2000);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 328;Etoposide with cisplatin and bleomycin;acute myeloid leukemia;sufficient ;;76 (2000);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 9;Etoposide with cisplatin and bleomycin;leukemia;sufficient ;2000;76;Pharmacological agent;leukemia;;adults;;carcinogenic to humans (Group 1);chromosomal aberrations ;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
 211;Fission products, including Strontium-90;leukemia;sufficient ;;;Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 135;Formaldehyde;myeloid leukemia;sufficient ;;88 (2006) ;Chemicals and mixtures;leukemia;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 11;Formaldehyde;myeloid leukemia;sufficient ;2004;88;Chemicals and mixtures;leukemia;;adults;;carcinogenic to humans (Group 1);not possible to identify a mechanism;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-12;Helicobacter pylori;B-cell MALT gastric lymphoma;sufficient ;1994;61;Biological agents;B-and-T-cell neoplasms;Bacteria;adults;;carcinogenic to humans (Group 1);gastric inflammatory response;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-262;Helicobacter pylori;low-grade B-cell  (gastric lymphoma);sufficient ;;61 (1994);Biological agents;B-and-T-cell neoplasms;Bacteria;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-237;Hepatitis B virus;non-Hodgkin lymphoma ;limited;;59 (1994);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-239;hepatitis C virus;non-Hodgkin lymphoma;sufficient ;;59 (1994);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-13;hepatitis C virus;non-Hodgkin lymphoma;sufficient ;2012;100B;Biological agents;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
-241;HIV type 1;Hodgkin lymphoma;sufficient ;;67 (1996) ;Biological agents;Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-241;HIV type 1;Kaposi sarcoma;sufficient ;;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-241;HIV type 1;non-Hodgkin lymphoma ;sufficient ;;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 257;Human T-cell lymphotropic virus type 1;leukemia;sufficient ;;67 (1996);Biological agents;leukemia;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-257;Human T-cell lymphotropic virus type 1;T-cell lymphoma;sufficient ;;67 (1996);Biological agents;B-and-T-cell neoplasms;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-259;Kaposi sarcoma herpes virus;primary effusion;sufficient ;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-259;Kaposi sarcoma herpes virus;Castleman disease;limited;;;Biological agents;lymphoma;Virus;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-259;Kaposi sarcoma herpes virus;Kaposi sarcoma;sufficient ;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 329;Melphalan;acute myeloid;limited;;Sup 1 - 1979;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 329;Melphalan;acute myeloid leukemia;sufficient ;;Sup 1 - 1979;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 330;Methoxsalen plus ultraviolet A;acute myeloid;limited;;24-1980;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 331;MOPP;acute myeloid;limited;;;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 331;MOPP;acute myeloid leukemia;sufficient ;;;Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-167;Painting;leukemia ;limited;;"47 (1989); 98 (2010) ";Occupations;leukemia;Occupations;children;Maternal exposure;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 210;Phosphorus-32;acute leukemia;sufficient ;;78 (2001);Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 213;Radioiodines, including Iodine-131 ;leukemia;limited;;80 (2001);Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 198;Radon-222 and its decay products;leukemia;limited;;43 (1988);Radiation;leukemia;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 169;Rubber production industry;leukemia;sufficient ;;28 (1982) ;Occupations;leukemia;Occupations;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-169;Rubber production industry;lymphoma;sufficient ;;28 (1982) ;Occupations;lymphoma;Occupations;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 336;Semustine (methyl-CCNU);acute myeloid leukemia;sufficient ;;Sup 7 (1987);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 340;Thiotepa;leukemia;sufficient ;;50 (1990);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 204;Thorium-232 and its decay products ;leukemia;sufficient ;;78 (2001);Radiation;leukemia;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-282;Tobacco smoking;acute lymphocytic;limited;;"38 (1986); 83 (2004)";Personal habits;leukemia;Smoking;children;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
 282;Tobacco smoking;myeloid leukemia;sufficient ;;"38 (1986); 83 (2004)";Personal habits;leukemia;Smoking;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 341;Treosulfan;acute myeloid leukemia;sufficient ;;26 (1981);Pharmaceuticals;leukemia;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
 215;X radiation, gamma radiation;leukemia;sufficient ;;75 (2000) ;Radiation;leukemia;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
-215;X radiation, gamma radiation;multiple myeloma;limited;;75 (2000) ;Radiation;multiple myeloma;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-215;X radiation, gamma radiation;non-Hodgkin lymphoma ;limited;;75 (2000) ;Radiation;non-Hodgkin lymphoma ;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
-187;Asbestos (all forms);mesotelioma;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;Mesothelium ;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Mesothelium 
-189;Erionite;mesotelioma;sufficient ;;42 (1987) ;Dusts and fibers;Mesothelium ;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Mesothelium 
-167;Painting;mesotelioma;sufficient ;;"47 (1989); 98 (2010) ";Occupations;Mesothelium ;Occupations;adults;;;;;sufficient evidence in humans;;;Mesothelium 
-241;HIV type 1;eye (conjunctiva);sufficient ;;67 (1996) ;Biological agents;eye;Virus;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
-225;Solar radiation;squamous cell carcinoma;limited;;55 (1992) 75 (2000);Radiation;Eye;Neutron radiation<U+2021>;adults;;;;;limited evidence in humans;;;Nervous system and eye
-229;Ultraviolet-emitting tanning devices;melanoma;sufficient ;;;Radiation;eye;Ultraviolet radiation<U+2021>;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
-171;Welding;eye (melanoma);sufficient ;;;Occupations;eye;Occupations;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
-215;X radiation, gamma radiation;brain and central nervous system ;sufficient ;;75 (2000) ;Radiation;brain and SNC;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Nervous system and eye
-149;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
-150;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
-151;2,3,7,8-Tetrachlorodibenzo-para-dioxin;All cancers combined;sufficient ;;69 (1997);Chemicals and mixtures;All cancers combined;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Other groupings
-304;Cyclosporine;multiple other sites;sufficient ;;50 (1990);Pharmaceuticals;other sites;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Other groupings
-211;Fission products, including Strontium-90;solid cancer;sufficient ;;;Radiation;solid cancers;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Other groupings
-11;Formaldehyde;other sites;sufficient ;2004;88;Chemicals and mixtures;other sites;;adults;;carcinogenic to humans (Group 1);No info;1;sufficient evidence in humans;NA;;Other groupings
-208;Plutonium;Other solid tumors ;limited;;78 (2001);Radiation;other sites;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Other groupings
-273;Acetaldehyde, consumption of alcoholic beverages;Aerodigestive tract, upper;sufficient ;;96 (2010);Personal habits;respiratory tract;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;;Respiratory organs
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;acute myeloid leukemia;sufficient ;2018;120;Chemicals and mixtures;leukemia;;children;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+167;Painting;leukemia ;limited;;"47 (1989); 98 (2010) ";Occupations;leukemia;Occupations;children;Maternal exposure;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+282;Tobacco smoking;acute lymphocytic;limited;;"38 (1986); 83 (2004)";Personal habits;leukemia;Smoking;children;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+225;Solar radiation;lip;limited;;55 (1992) 75 (2000);Radiation;lip;Neutron radiation<U+2021>;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+117;Aflatoxins;hepatocellular carcinoma;sufficient ;;Suppl 7 (1987);Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+269;Alcoholic beverages;hepatocellular carcinoma;sufficient ;;"44 (1988); 96 (2010)";Personal habits;liver;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+278;Betel quid without tobacco;liver;limited;;85 (2004);Personal habits;liver;Areca nut‡;adults;;;;;limited evidence in humans;;;Digestive organs 
+261;Clonorchis sinensis;cholangiocarcinoma;sufficient ;;;Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+313;Estrogen-progestogen contraceptives (combined);hepatocellular carcinoma;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;liver;contraceptives ;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+237;Hepatitis B virus;cholangiocarcinoma;limited;;59 (1994);Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
+237;Hepatitis B virus;hepatocellular carcinoma;sufficient ;;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+239;Hepatitis C virus;cholangiocarcinoma;limited;;59 (1994);Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
+13;hepatitis C virus;cholangiocarcinoma;sufficient ;2012;100B;Biological agents;liver;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;;Digestive organs 
+13;hepatitis C virus;hepatocelular carcinoma;sufficient ;2012;100B;Biological agents;liver;;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;;Digestive organs 
+239;Hepatitis C virus;hepatocellular carcinoma;sufficient ;;59 (1994);Biological agents;liver;Virus;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+13;hepatitis C viruses;hepatocelular carcinoma;sufficient ;1994;59;Biological agents;liver;Virus;adults;;carcinogenic to humans (Group 1);chronic infection;1;sufficient evidence in humans;NA;;Digestive organs 
+241;HIV type 1;hepatocellular carcinoma;limited;;67 (1996) ;Biological agents;liver;Virus;adults;;;;;limited evidence in humans;;;Digestive organs 
+266;Opisthorchis viverrini;cholangiocarcinoma;sufficient ;;61 (1994);Biological agents;liver;Parasite;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+208;Plutonium;liver;sufficient ;;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
+204;Thorium-232 and its decay products ;liver;sufficient ;;78 (2001);Radiation;liver;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Digestive organs 
+155;Vinyl chloride;hepatocellular carcinoma;sufficient ;;"7 (1974); 19 (1979); 97 (2008) ";Chemicals and mixtures;liver;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+215;X radiation, gamma radiation;liver;limited;;75 (2000) ;Radiation;liver;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive organs 
+282;Tobacco smoking;hepatoblastoma;sufficient ;;"38 (1986); 83 (2004)";Personal habits;liver ;Smoking;children;;;;;sufficient evidence in humans;;;Digestive organs 
 149;2,3,7,8-Tetrachlorodibenzo-para-dioxin;lung;limited;;69 (1997);Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Respiratory system
-116;Acid mists, strong inorganic;larynx;sufficient ;;54 (1992);Chemicals and mixtures;larynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Respiratory system
 116;Acid mists, strong inorganic;lung;limited;;54 (1992);Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Respiratory system
-269;Alcoholic beverages;larynx;sufficient ;;"44 (1988); 96 (2010)";Personal habits;larynx;Personal habits;adults;;;;;sufficient evidence in humans;;;Respiratory system
 158;Aluminum production;lung;sufficient ;;"Sup 7 (1987); 92 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;;Respiratory system
 172;Arsenic and inorganic arsenic ;lung;sufficient ;;"2 (1973); 23 (1980); 84 (2004) ";Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;;Respiratory system
-187;Asbestos (all forms);larynx;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;larynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Respiratory system
 1;benzene;cancer of the lung;sufficient ;2018;120;Chemicals and mixtures;lung;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;;Respiratory system
 1;benzene;cancer of the lung;sufficient ;2018;120;Chemicals and mixtures;lung;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;;Respiratory system
 1;benzene;cancer of the lung;sufficient ;2018;120;Chemicals and mixtures;lung;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;;Respiratory system
@@ -241,30 +197,131 @@ Estrogen, progestogen combined";breast;sufficient ;;91 (2007);Pharmaceuticals;br
 279;Coal, indoor emissions from household combustion;lung;sufficient ;;95 (2010);Personal habits;lung;Household combustion;adults;;;;;sufficient evidence in humans;;;Respiratory system
 162;Coke production;lung;sufficient ;;"34 (1984); 92 (2010) ";Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;;Respiratory system
 163;Hematite mining (underground);lung;sufficient ;;1 (1972) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;;Respiratory system
-244;Human papillomavirus type 16;larynx;limited;;"64 (1995); 90 (2007) ";Biological agents;larynx;Virus;adults;;;;;limited evidence in humans;;;Respiratory system
-247;Human papillomavirus type 18;larynx;limited;;"65 (1995); 90 (2007) ";Biological agents;larynx;Virus;adults;;;;;limited evidence in humans;;;Respiratory system
 164;Iron and steel founding;lung;sufficient ;;Sup 7 (1987) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;;Respiratory system
 178;Nickel compounds ;lung;sufficient ;;"2 (1973); 11 (1976); 49 (1990) ";Metals;lung;Metals;adults;;;;;sufficient evidence in humans;;;Respiratory system
 208;Plutonium;lung;sufficient ;;78 (2001);Radiation;lung;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Respiratory system
 198;Radon-222 and its decay products;lung;sufficient ;;43 (1988);Radiation;lung;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Respiratory system
-169;Rubber production industry;larynx;limited;;28 (1982) ;Occupations;larynx;Occupations;adults;;;;;limited evidence in humans;;;Respiratory system
 169;Rubber production industry;lung;sufficient ;;28 (1982) ;Occupations;lung;Occupations;adults;;;;;sufficient evidence in humans;;;Respiratory system
 191;Silica dust, crystalline;lung;sufficient ;;68 (1997);Dusts and fibers;lung;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Respiratory system
 147;Soot;lung;sufficient ;;"3 (1973); 35 (1985) ";Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Respiratory system
-148;Sulfur mustard;larynx;limited;;9 (1975);Chemicals and mixtures;larynx;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Respiratory system
 148;Sulfur mustard;lung;sufficient ;;9 (1975);Chemicals and mixtures;lung;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Respiratory system
-294;Tobacco smoke, secondhand;larynx;limited;;83 (2004);Personal habits;larynx;Smoking;adults;;;;;limited evidence in humans;;;Respiratory system
 294;Tobacco smoke, secondhand;lung;sufficient ;;83 (2004);Personal habits;lung;Smoking;adults;;;;;sufficient evidence in humans;;;Respiratory system
-282;Tobacco smoking;larynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;larynx;Smoking;adults;;;;;sufficient evidence in humans;;;Respiratory system
 282;Tobacco smoking;lung;sufficient ;;"38 (1986); 83 (2004)";Personal habits;lung;Smoking;adults;;;;;sufficient evidence in humans;;;Respiratory system
 215;X radiation, gamma radiation;lung;sufficient ;;75 (2000) ;Radiation;lung;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Respiratory system
+129;1,3-Butadiene;hematolymphatic organs;sufficient ;;97 (2008);Chemicals and mixtures;lymphoma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+259;Kaposi sarcoma herpes virus;Castleman disease;limited;;;Biological agents;lymphoma;Virus;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+169;Rubber production industry;lymphoma;sufficient ;;28 (1982) ;Occupations;lymphoma;Occupations;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+187;Asbestos (all forms);mesotelioma;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;Mesothelium ;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Mesothelium 
+189;Erionite;mesotelioma;sufficient ;;42 (1987) ;Dusts and fibers;Mesothelium ;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Mesothelium 
+167;Painting;mesotelioma;sufficient ;;"47 (1989); 98 (2010) ";Occupations;Mesothelium ;Occupations;adults;;;;;sufficient evidence in humans;;;Mesothelium 
+121;benzene;multiple myeloma;limited;;9 (1974);Chemicals and mixtures;multiple myeloma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+131;Ethylene oxide;multiple myeloma;sufficient ;;"63 (1994); 97 (2008) ";Chemicals and mixtures;multiple myeloma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+215;X radiation, gamma radiation;multiple myeloma;limited;;75 (2000) ;Radiation;multiple myeloma;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+11;Formaldehyde;Sinonasal cancer;sufficient ;2004;88;Chemicals and mixtures;nasal cavity;;adults;;carcinogenic to humans (Group 1);genotoxicty;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
+11;Formaldehyde;Sinonasal cancer;sufficient ;2004;88;Chemicals and mixtures;nasal cavity;;adults;;carcinogenic to humans (Group 1);cytoxicity;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
+165;Isopropyl alcohol production;Nasal cavity and paranasal sinus;sufficient ;;15 (1977) ;Occupations;nasal cavity;Occupations;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+190;Leather dust;Nasal cavity and paranasal sinus;sufficient ;;25 (1981);Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+178;Nickel compounds ;nasal cavity and paranasal sinus ;sufficient ;;"2 (1973); 11 (1976); 49 (1990)";Metals;nasal cavity;Metals;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+200;Radium-226 and its decay products;paranasal sinus;sufficient ;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+202;Radium-228 and its decay products;paranasal sinus;sufficient ;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+282;Tobacco smoking;nasal cavity and paranasal sinus;sufficient ;;"38 (1986); 83 (2004)";Personal habits;nasal cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+193;Wood dust;Nasal cavity and paranasal sinus;sufficient ;;"25 (1981); 62 (1995) ";Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+231;Epstein-Barr Virus(EBV);nasopharyn;sufficient ;;70 (1997);Biological agents;nasopharynx;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+5;Epstein-Barr Virus(EBV);nasopharyngeal carcinoma;sufficient ;1997;70;Biological agents;Nasopharynx;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
+136;Formaldehyde;nasopharynx;sufficient ;;88 (2006) ;Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+137;Methylenebis(2-chloroaniline)(MOCA);nasopharynx;sufficient ;;99 (2010);Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+194;Wood dust;nasopharynx*;sufficient ;;"25 (1981); 62 (1995) ";Dusts and fibers;nasopharynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+3;1,3-Butadiene;non-Hodgkin lymphoma;sufficient ;2008;97;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+150;2,3,7,8-Tetrachlorodibenzo-para-dioxin;non-Hodgkin lymphoma;limited;;69 (1997);Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+4;Azathioprine;non-Hodgkin lymphoma;sufficient ;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressant;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+4;Azathioprine;non-Hodgkin lymphoma;sufficient ;2012;100A;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+297;Azathioprine;Non-Hodgkin lymphoma;sufficient ;;26 (1981) ;Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+121;benzene;non-Hodgkin lymphoma;limited;;10 (1974);Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);metabolically activated to electrophilic metabolites;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);induces oxidative stress;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);genotoxic;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);DNA damage and chromosomal changes;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);immunosuppressive;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+1;benzene;non-Hodgkin lymphoma;sufficient ;2018;120;Chemicals and mixtures;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);haematotoxicity;1;sufficient evidence in humans;Positive associations;;Lymphoid and haematopoietic tissues
+8;Ciclosporin;non-Hodgkin lymphoma;sufficient ;2008;100A;Pharmacological agent;non-Hodgkin lymphoma;Pharmacological immunosuppression agent;adults;;carcinogenic to humans (Group 1);Immunosuppression;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+304;Cyclosporine;Non-Hodgkin lymphoma;sufficient ;;50 (1990);Pharmaceuticals;non-Hodgkin lymphoma;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+231;Epstein-Barr Virus(EBV);Burkitt lymphoma;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+231;Epstein-Barr Virus(EBV);extranodal NK/T-cell, nasal type;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+231;Epstein-Barr Virus(EBV);immune suppression related;sufficient ;;70 (1997);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+131;Ethylene oxide;non-Hodgkin lymphoma;sufficient ;;"61 (1994); 97 (2008) ";Chemicals and mixtures;non-Hodgkin lymphoma;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+237;Hepatitis B virus;non-Hodgkin lymphoma ;limited;;59 (1994);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+239;hepatitis C virus;non-Hodgkin lymphoma;sufficient ;;59 (1994);Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+13;hepatitis C virus;non-Hodgkin lymphoma;sufficient ;2012;100B;Biological agents;non-Hodgkin lymphoma;;adults;;carcinogenic to humans (Group 1);moderate experimental evidence for a direct oncogenic role of HCV;1;sufficient evidence in humans;NA;;Lymphoid and haematopoietic tissues
+241;HIV type 1;Kaposi sarcoma;sufficient ;;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+241;HIV type 1;non-Hodgkin lymphoma ;sufficient ;;67 (1996) ;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+259;Kaposi sarcoma herpes virus;primary effusion;sufficient ;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+259;Kaposi sarcoma herpes virus;Kaposi sarcoma;sufficient ;;;Biological agents;non-Hodgkin lymphoma;Virus;adults;;;;;sufficient evidence in humans;;;Lymphoid and haematopoietic tissues
+215;X radiation, gamma radiation;non-Hodgkin lymphoma ;limited;;75 (2000) ;Radiation;non-Hodgkin lymphoma ;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Lymphoid and haematopoietic tissues
+241;HIV type 1;non-melanoma;limited;;67 (1996) ;Biological agents;non-melanoma;Virus;adults;;;;;limited evidence in humans;;;Skin
+273;Acetaldehyde, consumption of alcoholic beverages;esophagus;sufficient ;;96 (2010);Personal habits;oesophagus;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;;Digestive tract
+269;Alcoholic beverages;esophagus;sufficient ;;"44 (1988); 96 (2010)";Personal habits;oesophagus;Personal habits;adults;;;;;sufficient evidence in humans;;;Digestive tract
+277;Betel quid with tobacco;esophagus;sufficient ;;"37 (1985); 85 (2004)";Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Digestive tract
+278;Betel quid without tobacco;esophagus;sufficient ;;85 (2004);Personal habits;oesophagus;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Digestive tract
+169;Rubber production industry;oesophagus;limited;;28 (1982) ;Occupations;oesophagus;Occupations;adults;;;;;limited evidence in humans;;;Digestive tract
+282;Tobacco smoking;"adenocarcinoma, squamous
+cell carcinoma";sufficient ;;"38 (1986); 83 (2004)";Personal habits;oesophagus;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
+295;Tobacco, smokeless;esophagus;sufficient ;;"37 (1985); 89 (2007)";Personal habits;oesophagus;Smokeless;adults;;;;;sufficient evidence in humans;;;Digestive tract
+215;X radiation, gamma radiation;oesophagus;sufficient ;;75 (2000) ;Radiation;oesophagus;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Digestive tract
+269;Alcoholic beverages;oral cavity;sufficient ;;"44 (1988); 96 (2010)";Personal habits;oral cavity;Personal habits;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+277;Betel quid with tobacco;oral cavity;sufficient ;;"37 (1985); 85 (2004)";Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+278;Betel quid without tobacco;oral cavity;sufficient ;;85 (2004);Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+177;Chromium (VI) compounds;Nasal cavity ;limited;;"2 (1973); 23 (1980); 49 (1990) ";Metals;oral cavity;Metals;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+177;Chromium (VI) compounds;paranasal sinus;limited;;"2 (1973); 23 (1980); 49 (1990) ";Metals;oral cavity;Metals;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+231;Epstein-Barr Virus(EBV);Lymphoepithelial-like carcinoma;limited;;70 (1997);Biological agents;oral cavity;Virus;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+135;Formaldehyde;Nasal cavity ;limited;;88 (2006) ;Chemicals and mixtures;oral cavity;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+135;Formaldehyde;paranasal sinus;limited;;88 (2006) ;Chemicals and mixtures;oral cavity;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+244;Human papillomavirus type 16;oral cavity;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;oral cavity;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+247;Human papillomavirus type 18;oral cavity;limited;;"66 (1995); 90 (2007) ";Biological agents;oral cavity;Virus;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+281;Salted fish, Chinese style;nasopharynx;sufficient ;;56 (1993);Personal habits;oral cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+282;Tobacco smoking;oral cavity;sufficient ;;"38 (1986); 83 (2004)";Personal habits;oral cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+295;Tobacco, smokeless;oral cavity;sufficient ;;"37 (1985); 89 (2007)";Personal habits;oral cavity;Smokeless;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+244;Human papillomavirus type 16;oropharynx;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;oropharynx;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+304;Cyclosporine;multiple other sites;sufficient ;;50 (1990);Pharmaceuticals;other sites;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Other groupings
+11;Formaldehyde;other sites;sufficient ;2004;88;Chemicals and mixtures;other sites;;adults;;carcinogenic to humans (Group 1);No info;1;sufficient evidence in humans;NA;;Other groupings
+208;Plutonium;Other solid tumors ;limited;;78 (2001);Radiation;other sites;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Other groupings
+187;Asbestos (all forms);ovary;sufficient ;;"2 (1973); 14 (1977)";Dusts and fibers;ovary;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
+313;Estrogen-progestogen contraceptives (combined);ovary;sufficient ;;"72 (1999); 91 (2007)";Pharmaceuticals;ovary;contraceptives ;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
+282;Tobacco smoking;ovary (mucinous);sufficient ;;"38 (1986); 83 (2004)";Personal habits;ovary;Smoking;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
+215;X radiation, gamma radiation;ovary;limited;;75 (2000) ;Radiation;ovary;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+269;Alcoholic beverages;pancreas;limited;;"44 (1988); 96 (2010)";Personal habits;pancreas;Personal habits;adults;;;;;limited evidence in humans;;female;Digestive organs 
+204;Thorium-232 and its decay products ;pancreas;limited;;78 (2001);Radiation;pancreas;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Digestive organs 
+204;Thorium-232 and its decay products ;pancreas;limited;;78 (2001);Radiation;pancreas;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Digestive organs 
+282;Tobacco smoking; pancreas;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pancreas;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+295;Tobacco, smokeless;pancreas;sufficient ;;"37 (1985); 89 (2007)";Personal habits;pancreas;Smokeless;adults;;;;;sufficient evidence in humans;;;Digestive organs 
+215;X radiation, gamma radiation;pancreas;limited;;75 (2000) ;Radiation;pancreas;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive organs 
+241;HIV type 1;penis;limited;;67 (1996) ;Biological agents;penis;Virus;adults;;;;;limited evidence in humans;;;Urothelium 
+244;Human papillomavirus type 16;penis;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;penis;Virus;adults;;;;;sufficient evidence in humans;;;Urothelium 
+247;Human papillomavirus type 18;penis;limited;;"67 (1995); 90 (2007) ";Biological agents;penis;Virus;adults;;;;;limited evidence in humans;;;Urothelium 
+269;Alcoholic beverages;pharynx ;sufficient ;;"44 (1988); 96 (2010)";Personal habits;pharynx;Personal habits;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+187;Asbestos (all forms);pharynx;limited;;"2 (1973); 14 (1977)";Dusts and fibers;pharynx;Dusts and fibers;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+277;Betel quid with tobacco;pharynx;sufficient ;;"37 (1985); 85 (2004)";Personal habits;pharynx;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+282;Tobacco smoking;hypopharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+282;Tobacco smoking;nasopharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+282;Tobacco smoking;oropharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
+269;Alcoholic beverages;prostate ;limited;;"44 (1988); 96 (2010)";Personal habits;prostate;Personal habits;adults;;;;;limited evidence in humans;;female;Urothelium 
+169;Rubber production industry;prostate;limited;;28 (1982) ;Occupations;prostate;Occupations;adults;;;;;limited evidence in humans;;;Urothelium 
+204;Thorium-232 and its decay products ;prostate;limited;;78 (2001);Radiation;prostate;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Urothelium 
+204;Thorium-232 and its decay products ;prostate;limited;;78 (2001);Radiation;prostate;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Urothelium 
+215;X radiation, gamma radiation;prostate;limited;;75 (2000) ;Radiation;prostate;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Urothelium 
+215;X radiation, gamma radiation;rectum;limited;;75 (2000) ;Radiation;rectum;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Digestive tract
+120;Aristolochic acid, plants containing;Renal pelvis;sufficient ;;;Chemicals and mixtures;renal;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
+333;Phenacetin;Renal pelvis;sufficient ;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Urothelium 
+334;Phenacetin, analgesic mixtures containing;Renal pelvis;sufficient ;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Urothelium 
+119;Aristolochic acid;Renal pelvis;limited;;;Chemicals and mixtures;renal ;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
+273;Acetaldehyde, consumption of alcoholic beverages;Aerodigestive tract, upper;sufficient ;;96 (2010);Personal habits;respiratory tract;Ethanol in alcoholic beverages‡ ;adults;;;;;sufficient evidence in humans;;;Respiratory organs
+213;Radioiodines, including Iodine-131 ;salivary gland;limited;;81 (2001);Radiation;salivary gland;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
+215;X radiation, gamma radiation;salivary gland;sufficient ;;75 (2000) ;Radiation;salivary gland;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
 173;Arsenic and inorganic arsenic ;skin;sufficient ;;"2 (1973); 23 (1980); 84 (2004) ";Metals;skin;Metals;adults;;;;;sufficient evidence in humans;;;Skin
 297;Azathioprine;squamous cell carcinoma;sufficient ;;26 (1981) ;Pharmaceuticals;skin;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Skin
 8;Ciclosporin;squamous cell carcinoma of the skin;sufficient ;2008;100A;Pharmacological agent;skin;Pharmacological immunosuppression agent;adults;;carcinogenic to humans (Group 1);Immunosuppression;1;sufficient evidence in humans;NA;;Skin
 161;Coal tar distillation;Skin;sufficient ;;"34 (1984); 92 (2010) ";Occupations;skin;Occupations;adults;;;;;sufficient evidence in humans;;;Skin
 131;Coal tar pitch;skin;sufficient ;;"4 (1973); 35 (1985) ";Chemicals and mixtures;skin;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Skin
 304;Cyclosporine;skin (non-melanocytic);sufficient ;;50 (1990);Pharmaceuticals;skin;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Skin
-241;HIV type 1;non-melanoma;limited;;67 (1996) ;Biological agents;non-melanoma;Virus;adults;;;;;limited evidence in humans;;;Skin
 330;Methoxsalen plus ultraviolet A;squamous cell carcinoma;sufficient ;;24-1980;Pharmaceuticals;skin;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Skin
 139;Mineral oils, untreated or mildly treated;Skin;sufficient ;;"3 (1973); 33 (1984) ";Chemicals and mixtures;skin;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Skin
 331;MOPP ;lung;sufficient ;;26 (1987);Pharmaceuticals;skin;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Skin
@@ -277,83 +334,26 @@ Estrogen, progestogen combined";breast;sufficient ;;91 (2007);Pharmaceuticals;br
 215;X radiation, gamma radiation;skin (basal cell carcinoma) ;sufficient ;;75 (2000) ;Radiation;skin;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Skin
 4;Azathioprine;squamous cell carcinoma;sufficient ;2012;100A;Chemicals and mixtures;skin;;adults;;carcinogenic to humans (Group 1);immunosuppressant;1;sufficient evidence in humans;NA;;Skin 
 4;Azathioprine;squamous cell carcinoma;sufficient ;2012;100A;Chemicals and mixtures;skin;;adults;;carcinogenic to humans (Group 1);DNA damage;1;sufficient evidence in humans;NA;;Skin 
-269;Alcoholic beverages;oral cavity;sufficient ;;"44 (1988); 96 (2010)";Personal habits;oral cavity;Personal habits;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-269;Alcoholic beverages;pharynx ;sufficient ;;"44 (1988); 96 (2010)";Personal habits;pharynx;Personal habits;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-187;Asbestos (all forms);pharynx;limited;;"2 (1973); 14 (1977)";Dusts and fibers;pharynx;Dusts and fibers;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-277;Betel quid with tobacco;oral cavity;sufficient ;;"37 (1985); 85 (2004)";Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-277;Betel quid with tobacco;pharynx;sufficient ;;"37 (1985); 85 (2004)";Personal habits;pharynx;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-278;Betel quid without tobacco;oral cavity;sufficient ;;85 (2004);Personal habits;oral cavity;Areca nut‡;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-177;Chromium (VI) compounds;Nasal cavity ;limited;;"2 (1973); 23 (1980); 49 (1990) ";Metals;oral cavity;Metals;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-177;Chromium (VI) compounds;paranasal sinus;limited;;"2 (1973); 23 (1980); 49 (1990) ";Metals;oral cavity;Metals;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-231;Epstein-Barr Virus(EBV);Lymphoepithelial-like carcinoma;limited;;70 (1997);Biological agents;oral cavity;Virus;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-231;Epstein-Barr Virus(EBV);nasopharyn;sufficient ;;70 (1997);Biological agents;nasopharynx;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-5;Epstein-Barr Virus(EBV);nasopharyngeal carcinoma;sufficient ;1997;70;Biological agents;Nasopharynx;Virus;adults;;carcinogenic to humans (Group 1);viral genomes proliferation;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
-135;Formaldehyde;Nasal cavity ;limited;;88 (2006) ;Chemicals and mixtures;oral cavity;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-136;Formaldehyde;nasopharynx;sufficient ;;88 (2006) ;Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-135;Formaldehyde;paranasal sinus;limited;;88 (2006) ;Chemicals and mixtures;oral cavity;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-11;Formaldehyde;Sinonasal cancer;sufficient ;2004;88;Chemicals and mixtures;nasal cavity;;adults;;carcinogenic to humans (Group 1);genotoxicty;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
-11;Formaldehyde;Sinonasal cancer;sufficient ;2004;88;Chemicals and mixtures;nasal cavity;;adults;;carcinogenic to humans (Group 1);cytoxicity;1;sufficient evidence in humans;NA;;Upper aerodigestive tract
-244;Human papillomavirus type 16;oral cavity;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;oral cavity;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-244;Human papillomavirus type 16;oropharynx;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;oropharynx;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-244;Human papillomavirus type 16;tonsil;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;tosil;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-247;Human papillomavirus type 18;oral cavity;limited;;"66 (1995); 90 (2007) ";Biological agents;oral cavity;Virus;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-165;Isopropyl alcohol production;Nasal cavity and paranasal sinus;sufficient ;;15 (1977) ;Occupations;nasal cavity;Occupations;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-190;Leather dust;Nasal cavity and paranasal sinus;sufficient ;;25 (1981);Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-137;Methylenebis(2-chloroaniline)(MOCA);nasopharynx;sufficient ;;99 (2010);Chemicals and mixtures;nasopharynx;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-178;Nickel compounds ;nasal cavity and paranasal sinus ;sufficient ;;"2 (1973); 11 (1976); 49 (1990)";Metals;nasal cavity;Metals;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-213;Radioiodines, including Iodine-131 ;salivary gland;limited;;81 (2001);Radiation;salivary gland;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-200;Radium-226 and its decay products;paranasal sinus;sufficient ;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-202;Radium-228 and its decay products;paranasal sinus;sufficient ;;78 (2001);Radiation;nasal cavity;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-281;Salted fish, Chinese style;nasopharynx;sufficient ;;56 (1993);Personal habits;oral cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-225;Solar radiation;lip;limited;;55 (1992) 75 (2000);Radiation;lip;Neutron radiation<U+2021>;adults;;;;;limited evidence in humans;;;Upper aerodigestive tract
-282;Tobacco smoking;hypopharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-282;Tobacco smoking;nasal cavity and paranasal sinus;sufficient ;;"38 (1986); 83 (2004)";Personal habits;nasal cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-282;Tobacco smoking;nasopharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-282;Tobacco smoking;oral cavity;sufficient ;;"38 (1986); 83 (2004)";Personal habits;oral cavity;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-282;Tobacco smoking;oropharynx;sufficient ;;"38 (1986); 83 (2004)";Personal habits;pharynx;Smoking;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-295;Tobacco, smokeless;oral cavity;sufficient ;;"37 (1985); 89 (2007)";Personal habits;oral cavity;Smokeless;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-193;Wood dust;Nasal cavity and paranasal sinus;sufficient ;;"25 (1981); 62 (1995) ";Dusts and fibers;nasal cavity;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-194;Wood dust;nasopharynx*;sufficient ;;"25 (1981); 62 (1995) ";Dusts and fibers;nasopharynx;Dusts and fibers;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-215;X radiation, gamma radiation;salivary gland;sufficient ;;75 (2000) ;Radiation;salivary gland;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
-141;2-Naphthylamine ;Urinary bladder;sufficient ;;4 (1974);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-118;4-Aminobiphenyl;Urinary bladder;sufficient ;;1 (1972);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-269;Alcoholic beverages;prostate ;limited;;"44 (1988); 96 (2010)";Personal habits;prostate;Personal habits;adults;;;;;limited evidence in humans;;female;Urothelium 
-158;Aluminum production;Urinary bladder;sufficient ;;"Sup 7 (1987); 92 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
-120;Aristolochic acid, plants containing;Renal pelvis;sufficient ;;;Chemicals and mixtures;renal;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-119;Aristolochic acid;Renal pelvis;limited;;;Chemicals and mixtures;renal ;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
-119;Aristolochic acid;Urinary bladder;sufficient ;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-174;Arsenic and inorganic arsenic ;urinary bladder ;sufficient ;;"2 (1973); 23 (1980); 84 (2004) ";Metals;bladder;Metals;adults;;;;;sufficient evidence in humans;;;Urothelium 
-159;Auramine production;Urinary bladder;sufficient ;;"1 (1972); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
-124;Benzidine;Urinary bladder;sufficient ;;"1 (1972); 29 (1982); 99 (2010) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-125;Benzidine, dyes metabolized ;Urinary bladder;sufficient ;;99-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-126;Benzo[a]pyrene;Urinary bladder;sufficient ;;92-2010;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-127;Bis(chloromethyl)ether methyl ether (technical grade);Urinary bladder;sufficient ;;;Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-301;Chlornaphazine;Urinary bladder;sufficient ;;4 (1974);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Urothelium 
-130;Coal tar pitch;Urinary bladder;limited;;"3 (1973); 35 (1985) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
-7;Cyclophosphamide;bladder cancer;sufficient ;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Urothelium 
-7;Cyclophosphamide;bladder cancer;sufficient ;2008;100A;Pharmacological agent;bladder;antineoplastic agent;adults;;carcinogenic to humans (Group 1);genotoxic mechanism;1;sufficient evidence in humans;NA;;Urothelium 
-302;Cyclophosphamide;urinary bladder;sufficient ;;26 (1981);Pharmaceuticals;bladder;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Urothelium 
+151;2,3,7,8-Tetrachlorodibenzo-para-dioxin;sarcoma;limited;;69 (1997);Chemicals and mixtures;soft tissue;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Connective tissues
+213;Radioiodines, including Iodine-131 ;soft tissue;limited;;78 (2001);Radiation;soft tissue;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Connective tissues
+211;Fission products, including Strontium-90;solid cancer;sufficient ;;;Radiation;solid cancers;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Other groupings
+187;Asbestos (all forms);stomach;limited;;"2 (1973); 14 (1977)";Dusts and fibers;stomach;Dusts and fibers;adults;;;;;limited evidence in humans;;;Digestive tract
+231;Epstein-Barr Virus(EBV);stomach;limited;;70 (1997);Biological agents;stomach;Virus;adults;;;;;limited evidence in humans;;;Digestive tract
+262;Helicobacter pylori;stomach (noncardia carcinoma) ;sufficient ;;61 (1994);Biological agents;stomach;Bacteria;adults;;;;;sufficient evidence in humans;;;Digestive tract
+169;Rubber production industry;stomach;sufficient ;;28 (1982) ;Occupations;stomach;Occupations;adults;;;;;sufficient evidence in humans;;;Digestive tract
+281;Salted fish, Chinese style;stomach;limited;;56 (1993);Personal habits;stomach;Smoking;adults;;;;;limited evidence in humans;;;Digestive tract
+282;Tobacco smoking;stomach;sufficient ;;"38 (1986); 83 (2004)";Personal habits;stomach;Smoking;adults;;;;;sufficient evidence in humans;;;Digestive tract
+215;X radiation, gamma radiation;stomach;sufficient ;;75 (2000) ;Radiation;stomach;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Digestive tract
 307;Diethylstilbestrol;testis;limited;;"6 (1974); 21 (1979)";Pharmaceuticals;testis;Pharmaceuticals;adults;;;;;limited evidence in humans;;;Urothelium 
-241;HIV type 1;penis;limited;;67 (1996) ;Biological agents;penis;Virus;adults;;;;;limited evidence in humans;;;Urothelium 
-244;Human papillomavirus type 16;penis;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;penis;Virus;adults;;;;;sufficient evidence in humans;;;Urothelium 
-247;Human papillomavirus type 18;penis;limited;;"67 (1995); 90 (2007) ";Biological agents;penis;Virus;adults;;;;;limited evidence in humans;;;Urothelium 
-166;Magenta production;Urinary bladder;sufficient ;;"Sup 7 (1987); 57 (1993); 99 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
-154;Ortho-Toluidine;Urinary bladder;sufficient ;;99 (2010);Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-167;Painting;urinary bladder;sufficient ;;"47 (1989); 98 (2010) ";Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
-333;Phenacetin;Renal pelvis;sufficient ;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Urothelium 
-334;Phenacetin, analgesic mixtures containing;Renal pelvis;sufficient ;;Sup4(1982);Pharmaceuticals;renal;Etoposide‡;adults;;;;;sufficient evidence in humans;;;Urothelium 
-169;Rubber production industry;prostate;limited;;28 (1982) ;Occupations;prostate;Occupations;adults;;;;;limited evidence in humans;;;Urothelium 
-169;Rubber production industry;urinary bladder ;sufficient ;;28 (1982) ;Occupations;bladder;Occupations;adults;;;;;sufficient evidence in humans;;;Urothelium 
-267;Schistosoma haematobium;Urinary bladder;sufficient ;;61 (1994);Biological agents;bladder;Parasite;adults;;;;;sufficient evidence in humans;;;Urothelium 
-147;Soot;Urinary bladder;limited;;"3 (1973); 35 (1985) ";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;limited evidence in humans;;;Urothelium 
-204;Thorium-232 and its decay products ;prostate;limited;;78 (2001);Radiation;prostate;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Urothelium 
-204;Thorium-232 and its decay products ;prostate;limited;;78 (2001);Radiation;prostate;Ionizing radiation (all types);adults;;;;;limited evidence in humans;;;Urothelium 
+213;Radioiodines, including Iodine-131 ;thyroid;sufficient ;;78 (2001);Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Endocrine system
+215;X radiation, gamma radiation;thyroid;sufficient ;;75 (2000) ;Radiation;thyroid;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Endocrine system
+244;Human papillomavirus type 16;tonsil;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;tosil;Virus;adults;;;;;sufficient evidence in humans;;;Upper aerodigestive tract
 282;Tobacco smoking;ureter;sufficient ;;"38 (1986); 83 (2004)";Personal habits;ureter;Smoking;adults;;;;;sufficient evidence in humans;;;Urothelium 
-282;Tobacco smoking;urinary bladder;sufficient ;;"38 (1986); 83 (2004)";Personal habits;bladder;Smoking;adults;;;;;sufficient evidence in humans;;;Urothelium 
-142;Tobacco-specific nitrosamines;Urinary bladder;sufficient ;;"4 (1974); 99 (2010);89 (2007)";Chemicals and mixtures;bladder;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;Urothelium 
-215;X radiation, gamma radiation;prostate;limited;;75 (2000) ;Radiation;prostate;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;limited evidence in humans;;;Urothelium 
-215;X radiation, gamma radiation;urinary bladder ;sufficient ;;75 (2000) ;Radiation;bladder;Beta-particle emitters<U+00A7><U+00A7>;adults;;;;;sufficient evidence in humans;;;Urothelium 
+307;Diethylstilbestrol;vagina (clear cell adenocarcinoma);sufficient ;;"6 (1974); 21 (1979)";Pharmaceuticals;vagina;Pharmaceuticals;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
+241;HIV type 1;vagina;limited;;67 (1996) ;Biological agents;vagina;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+244;Human papillomavirus type 16;vagina;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;vagina;Virus;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
+247;Human papillomavirus type 18;vulva;limited;;"68 (1995); 90 (2007) ";Biological agents;vagina;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+241;HIV type 1;vulva;limited;;67 (1996) ;Biological agents;vulva;Virus;adults;;;;;limited evidence in humans;;;Female breast and reproductive organs
+244;Human papillomavirus type 16;vulva;sufficient ;;"64 (1995); 90 (2007) ";Biological agents;vulva;Virus;adults;;;;;sufficient evidence in humans;;;Female breast and reproductive organs
 153;2,3,4,7,8-Pentachlorodibenzofuran;;sufficient ;;;Chemicals and mixtures;;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;
 152;3,4,5,3,4-Pentachlorobiphenyl (PCB-126);;sufficient ;;;Chemicals and mixtures;;Chemicals and mixtures;adults;;;;;sufficient evidence in humans;;;
-200;Radium-226 and its decay products;mastoid process;sufficient ;;78 (2001);Radiation;ear;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;
-202;Radium-228 and its decay products;mastoid process;sufficient ;;78 (2001);Radiation;ear;Ionizing radiation (all types);adults;;;;;sufficient evidence in humans;;;
