@@ -1,0 +1,78 @@
+"","agent","cancer","count","rank"
+"1","Biological agents","All cancer sites",62,1
+"2","Chemicals and mixtures","All cancer sites",94,1
+"3","Dusts and fibers","All cancer sites",11,1
+"4","Metals","All cancer sites",11,1
+"5","Occupations","All cancer sites",21,1
+"6","Personal habits","All cancer sites",43,1
+"7","Pharmaceuticals","All cancer sites",39,1
+"8","Pharmacological agent","All cancer sites",8,1
+"9","Radiation","All cancer sites",54,1
+"10","Dusts and fibers","Upper aerodigestive tract",4,2
+"11","Biological agents","Urothelium",4,2
+"12","Chemicals and mixtures","Urothelium",13,2
+"13","Metals","Urothelium",1,2
+"14","Occupations","Urothelium",6,2
+"15","Personal habits","Urothelium",3,2
+"16","Pharmacological agent","Urothelium",2,2
+"17","Pharmaceuticals","female breast and reproductive organs",1,2
+"18","Radiation","skin",1,2
+"19","Dusts and fibers","Respiratory system",2,3
+"20","Pharmacological agent","Skin",1,3
+"21","Biological agents","Upper aerodigestive tract",7,3
+"22","Chemicals and mixtures","Upper aerodigestive tract",6,3
+"23","Metals","Upper aerodigestive tract",3,3
+"24","Occupations","Upper aerodigestive tract",1,3
+"25","Personal habits","Upper aerodigestive tract",12,3
+"26","Pharmaceuticals","Urothelium",5,3
+"27","Radiation","Urothelium",4,3
+"28","Pharmacological agent","Lymphoid and haematopoietic tissues",5,4
+"29","Dusts and fibers","Mesothelium",2,4
+"30","Personal habits","Respiratory system",6,4
+"31","Biological agents","Skin",1,4
+"32","Chemicals and mixtures","Skin",5,4
+"33","Metals","Skin",1,4
+"34","Occupations","Skin",1,4
+"35","Pharmaceuticals","Skin",4,4
+"36","Radiation","Upper aerodigestive tract",5,4
+"37","Dusts and fibers","Female breast and reproductive organs",1,5
+"38","Pharmaceuticals","Other groupings",1,5
+"39","Personal habits","Respiratory organs",1,5
+"40","Biological agents","Respiratory system",2,5
+"41","Chemicals and mixtures","Respiratory system",13,5
+"42","Metals","Respiratory system",5,5
+"43","Occupations","Respiratory system",7,5
+"44","Radiation","Skin",5,5
+"45","Dusts and fibers","Digestive tract",2,6
+"46","Metals","Kidney",1,6
+"47","Personal habits","Lymphoid and haematopoietic tissues",1,6
+"48","Pharmaceuticals","Lymphoid and haematopoietic tissues",15,6
+"49","Biological agents","Nervous system and eye",1,6
+"50","Occupations","Nervous system and eye",1,6
+"51","Chemicals and mixtures","Other groupings",4,6
+"52","Radiation","Respiratory system",3,6
+"53","Pharmaceuticals","Female breast and reproductive organs",12,7
+"54","Personal habits","Kidney",1,7
+"55","Biological agents","Lymphoid and haematopoietic tissues",21,7
+"56","Chemicals and mixtures","Lymphoid and haematopoietic tissues",49,7
+"57","Occupations","Mesothelium",1,7
+"58","Radiation","Other groupings",2,7
+"59","Pharmaceuticals","Digestive organs",1,8
+"60","Biological agents","Female breast and reproductive organs",10,8
+"61","Chemicals and mixtures","Female breast and reproductive organs",1,8
+"62","Personal habits","Female breast and reproductive organs",4,8
+"63","Occupations","Lymphoid and haematopoietic tissues",2,8
+"64","Radiation","Nervous system and eye",3,8
+"65","Chemicals and mixtures","Digestive organs",2,9
+"66","Biological agents","Digestive tract",5,9
+"67","Occupations","Digestive tract",2,9
+"68","Personal habits","Digestive tract",10,9
+"69","Radiation","Lymphoid and haematopoietic tissues",8,9
+"70","Chemicals and mixtures","Connective tissues",1,10
+"71","Biological agents","Digestive organs",11,10
+"72","Personal habits","Digestive organs",5,10
+"73","Radiation","Female breast and reproductive organs",2,10
+"74","Radiation","Endocrine system",2,11
+"75","Radiation","Digestive tract",4,12
+"76","Radiation","Digestive organs",8,13
+"77","Radiation","Connective tissues",7,14
