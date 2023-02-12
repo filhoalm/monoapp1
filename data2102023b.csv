@@ -1,4 +1,4 @@
-,var,agent,volume,year,class,agent,organ,cancer_site,cancer_subsite,cancer_subsite2,evidence
+,var,agent,volume,year,class,agent,organ,cancer_site,cancer_subtype,cancer_subsite2,evidence
 1,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,I
 2,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,I
 3,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),I
@@ -25,7 +25,7 @@
 24,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Lip,Lip,I
 25,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,I
 26,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Multiple or unspecified sites,Multiple or unspecified sites,Multiple sites (unspecified),Multiple sites (unspecified),I
-27,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",I
+27,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",Upper aerodigestive tract,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",I
 28,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,I
 29,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Multiple or unspecified sites,Multiple or unspecified sites,All cancer sites (combined),All cancer sites (combined),I
 30,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),I
@@ -145,7 +145,7 @@
 144,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,I
 145,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,Male genital organs,Male genital organs,Testis,Testis,I
 146,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,I
-147,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",I
+147,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",Upper aerodigestive tract,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",I
 148,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
 149,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,I
 150,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Eye, brain and central nervous system",Brain and central nervous system,Brain,Glioma,I
