@@ -1,4 +1,4 @@
-,var,agent,volume,year,class,agent,organ,cancer_site,cancer_subtype,cancer_subsite2,evidence
+,var,agent_subtype,volume,year,class,agent,organ,cancer_site,cancer_subtype,cancer_subsite2,evidence
 1,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,I
 2,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,I
 3,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),I
