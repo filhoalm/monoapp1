@@ -1,0 +1,798 @@
+﻿,var,agent_subtype,volume,year,class,agent,organ,cancer_site,cancer_subtype,cancer_subsite2,evidence
+570,X100A.1,"Aristolochic acid, plants containing",100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis and ureter,S
+573,X100A.1,"Aristolochic acid, plants containing",100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Ureter,S
+607,X100A.1,"Aristolochic acid, plants containing",100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis,S
+704,X100A.10,"Estrogen therapy, postmenopausal",100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Ovary,Ovary,S
+707,X100A.10,"Estrogen therapy, postmenopausal",100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Endometrium,Endometrium,S
+787,X100A.11,Estrogenâ€“progestogen menopausal therapy (combined),100A,2012,Pharmaceuticals,hormones,Breast,Breast,Breast,Breast,S
+834,X100A.11,Estrogenâ€“progestogen menopausal therapy (combined),100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Endometrium,Endometrium,S
+883,X100A.12,Estrogenâ€“progestogen oral contraceptives (combined),100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+927,X100A.12,Estrogenâ€“progestogen oral contraceptives (combined),100A,2012,Pharmaceuticals,hormones,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+928,X100A.12,Estrogenâ€“progestogen oral contraceptives (combined),100A,2012,Pharmaceuticals,hormones,Breast,Breast,Breast,Breast,S
+1039,X100A.14,Etoposide in combination with cisplatin and bleomycin,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+1188,X100A.15,Melphalan,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+1248,X100A.16,Methoxsalen (8-methoxypsoralen) plus ultraviolet A radiation,100A,2012,Pharmaceuticals,chemotherapy drug,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+1372,X100A.17,MOPP and other combined chemotherapy including alkylating agents ,100A,2012,Pharmaceuticals,chemotherapy drug,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+1382,X100A.17,MOPP and other combined chemotherapy including alkylating agents ,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+1440,X100A.18,Phenacetin,100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis and ureter,S
+1450,X100A.18,Phenacetin,100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Ureter,S
+1477,X100A.18,Phenacetin,100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis,S
+1511,X100A.19,"Phenacetin, analgesic mixtures containing",100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis,S
+1539,X100A.19,"Phenacetin, analgesic mixtures containing",100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Ureter,S
+1542,X100A.19,"Phenacetin, analgesic mixtures containing",100A,2012,Pharmaceuticals,chemotherapy drug,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis and ureter,S
+1609,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+1620,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+1634,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+1655,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+1670,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+1671,X100A.2,Azathioprine,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+1702,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+1713,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+1727,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+1748,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+1763,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+1764,X100A.2,Azathioprine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+1811,X100A.20,"Semustine [1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea, Methyl-CCNU]",100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+1915,X100A.21,Tamoxifen,100A,2012,Pharmaceuticals,chemotherapy drug,Female genital organs,Female genital organs,Endometrium,Endometrium,S
+1959,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+1961,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,S
+1968,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+1984,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+1986,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+1988,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,S
+1989,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),S
+1994,X100A.22,Thiotepa,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2080,X100A.23,Treosulfan,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2171,X100A.3,Busulfan,100A,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2264,X100A.3,Busulfan,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2339,X100A.4,Chlorambucil,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2432,X100A.4,Chlorambucil,100A,2012,Pharmacological agent,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2593,X100A.5,Chlornaphazine,100A,2012,Pharmaceuticals,pharmaceuticals,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+2608,X100A.6,Cyclophosphamide,100A,2012,Pharmacological agent,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2686,X100A.6,Cyclophosphamide,100A,2012,Pharmacological agent,chemotherapy drug,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+2701,X100A.6,Cyclophosphamide,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+2779,X100A.6,Cyclophosphamide,100A,2012,Pharmaceuticals,pharmaceuticals,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+2797,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,Multiple or unspecified sites,Multiple or unspecified sites,Multiple sites (unspecified),Multiple sites (unspecified),S
+2815,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+2856,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+2860,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+2864,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+2869,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+2875,X100A.7,Cyclosporine,100A,2012,Pharmaceuticals,pharmaceuticals,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+2940,X100A.8,Diethylstilbestrol,100A,2012,Pharmaceuticals,pharmaceuticals,Breast,Breast,Breast,Breast,S
+3031,X100A.9,Diethylstilbestrol (exposure in utero),100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3043,X100A.9,Diethylstilbestrol (exposure in utero),100A,2012,Pharmaceuticals,hormones,Female genital organs,Female genital organs,Vagina,Vagina,S
+3141,X100B,Clonorchis sinensis (infection with),100B,2012,Biological agents,parasite,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+3185,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+3203,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+3244,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,S
+3246,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+3247,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+3286,X100B.10,Human papillomavirus type 33,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3407,X100B.11,Human papillomavirus type 35,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3445,X100B.12,Human papillomavirus type 39,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3567,X100B.13,Human papillomavirus type 45,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3791,X100B.15,Human papillomavirus type 51,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+3843,X100B.16,Human papillomavirus type 52,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+4073,X100B.18,Human papillomavirus type 56,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+4096,X100B.19,Human papillomavirus type 58,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+4198,X100B.2,Helicobacter pylori (infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Stomach,Stomach,S
+4276,X100B.2,Helicobacter pylori (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+4297,X100B.20,Human papillomavirus type 59,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+5104,X100B.28,Human T-cell lymphotropic virus type I,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+5134,X100B.29,Kaposi sarcoma herpesvirus,100B,2012,Biological agents,virus,"Mesothelium, endothelium and soft tissue","Bone, endothelium",Endothelium (Kaposi sarcoma),Endothelium (Kaposi sarcoma),S
+5142,X100B.29,Kaposi sarcoma herpesvirus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Primary effusion lymphoma,Primary effusion lymphoma,S
+5244,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+5346,X100B.30,Opisthorchis viverrini (infection with),100B,2012,Biological agents,parasite,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+5418,X100B.31,Schistosoma haematobium (infection with),100B,2012,Biological agents,parasite,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+5522,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+5561,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+5562,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+5563,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+5573,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+5574,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+5581,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+5582,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+5583,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+5584,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+5585,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+5587,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Anus,Anus,S
+5614,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Eye, brain and central nervous system",Eye,Eye,Eye,S
+5634,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Mesothelium, endothelium and soft tissue","Bone, endothelium",Endothelium (Kaposi sarcoma),Endothelium (Kaposi sarcoma),S
+5640,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+5665,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,S
+5675,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,S
+5676,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,S
+5678,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+5692,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vulva,Vulva,S
+5693,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vagina,Vagina,S
+5694,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+5698,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Male genital organs,Male genital organs,Penis,Penis,S
+5708,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Anus,Anus,S
+5824,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+6010,X100B.9,Human papillomavirus type 31,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+6062,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+6091,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6126,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+6163,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+6164,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6166,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium,Mesothelium,S
+6179,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (peritoneum and other),Mesothelium (peritoneum and other),S
+6192,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (pleura),Mesothelium (pleura),S
+6230,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Female genital organs,Female genital organs,Ovary,Ovary,S
+6321,X100C.2,Beryllium and beryllium compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6351,X100C.3,Cadmium and cadmium compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6499,X100C.4,Chromium (VI) compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6549,X100C.5,Erionite,100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium,Mesothelium,S
+6562,X100C.5,Erionite,100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (peritoneum and other),Mesothelium (peritoneum and other),S
+6563,X100C.5,Erionite,100C,2012,Dusts and fibers,dusts and fibers,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (pleura),Mesothelium (pleura),S
+6654,X100C.6,Leather dust,100C,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+6761,X100C.7,Nickel compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+6772,X100C.7,Nickel compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6816,X100C.8,"Silica dust, crystalline, in the form of quartz or cristobalite",100C,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+6886,X100C.9,Wood dust,100C,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+6965,X100C.9,Wood dust,100C,2012,Dusts and fibers,dusts and fibers,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+6986,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+6995,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,S
+7017,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,S
+7019,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,S
+7020,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+7021,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+7022,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+7023,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,S
+7024,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,S
+7025,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+7026,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),S
+7027,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Leukemia,S
+7065,X100D,"Fission products, including strontium-90",100D,2012,Radiation,radiation,Multiple or unspecified sites,Multiple or unspecified sites,Multiple sites (unspecified),Multiple sites (unspecified),S
+7119,X100D.1,Haematite mining (underground),100D,2012,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+7166,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,S
+7167,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Gall bladder,Gall bladder,S
+7219,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,S
+7220,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+7221,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+7223,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+7226,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+7231,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+7239,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,S
+7245,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+7246,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,S
+7250,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+7314,X100D.11,Ultraviolet-emitting tanning devices,100D,2012,Radiation,ultraviolet radiation,"Eye, brain and central nervous system",Eye,Eye,Eye,S
+7331,X100D.11,Ultraviolet-emitting tanning devices,100D,2012,Radiation,ultraviolet radiation,Skin,Skin,Skin (melanoma),Skin (melanoma),S
+7348,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,"Spinal cord, cranial nerves and other parts of CNS",Acoustic neuroma,S
+7350,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,Brain,Brain,S
+7352,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,Brain,Brain other than glioma,S
+7354,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,Brain,Glioma,S
+7357,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Breast,Breast,Breast,Breast,S
+7366,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,"Spinal cord, cranial nerves and other parts of CNS",CNS other than acoustic neuroma,S
+7367,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,"Spinal cord, cranial nerves and other parts of CNS","Spinal cord, cranial nerves and other parts of CNS",S
+7368,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Eye, brain and central nervous system",Brain and central nervous system,Brain and central nervous system,Brain and central nervous system,S
+7381,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Urinary tract,Urinary tract,Kidney,Kidney,S
+7385,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+7388,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,S
+7389,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+7390,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+7403,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Salivary gland,Salivary gland,S
+7405,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+7409,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+7411,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+7412,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+7413,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+7415,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Colon and rectum,Colon,S
+7416,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,S
+7419,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+7425,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Thyroid and other endocrine glands,Thyroid,Thyroid,Thyroid,S
+7428,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,S
+7432,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Bone,Bone,Bone,Bone,S
+7436,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Stomach,Stomach,S
+7437,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+7438,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+7446,X100D.13,X- and Gamma-radiation (exposure in utero),100D,2012,Radiation,radiation,Multiple or unspecified sites,Multiple or unspecified sites,Multiple sites (unspecified),Multiple sites (unspecified),S
+7539,X100D.2,"Phosphorus-32, as phosphate",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+7541,X100D.2,"Phosphorus-32, as phosphate",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+7549,X100D.2,"Phosphorus-32, as phosphate",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+7637,X100D.3,Plutonium,100D,2012,Radiation,ionizing radiation (all types),Bone,Bone,Bone,Bone,S
+7655,X100D.3,Plutonium,100D,2012,Radiation,ionizing radiation (all types),Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+7671,X100D.3,Plutonium,100D,2012,Radiation,ionizing radiation (all types),Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+7672,X100D.3,Plutonium,100D,2012,Radiation,ionizing radiation (all types),Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+7686,X100D.3,Plutonium,100D,2012,Radiation,ionizing radiation (all types),Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,S
+7724,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,Thyroid and other endocrine glands,Thyroid,Thyroid,Thyroid,S
+7866,X100D.5,Radium-224 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Bone,Bone,Bone,Bone,S
+7924,X100D.6,Radium-226 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Bone,Bone,Bone,Bone,S
+7925,X100D.6,Radium-226 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+8037,X100D.7,Radium-228 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+8051,X100D.7,Radium-228 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Bone,Bone,Bone,Bone,S
+8154,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+8242,X100D.9,Solar radiation,100D,2012,Radiation,neutron radiation,Skin,Skin,Skin,Skin,S
+8255,X100D.9,Solar radiation,100D,2012,Radiation,neutron radiation,Skin,Skin,Skin (melanoma),Skin (melanoma),S
+8261,X100D.9,Solar radiation,100D,2012,Radiation,neutron radiation,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+8280,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+8283,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",S
+8295,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+8296,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Salivary gland,Salivary gland,S
+8297,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,S
+8298,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,S
+8299,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+8300,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,S
+8331,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+8332,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+8333,X100E,Acetaldehyde associated with consumption of alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+8378,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+8381,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",S
+8392,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Breast,Breast,Breast,Breast,S
+8395,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+8397,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,S
+8398,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,S
+8399,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+8400,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,S
+8402,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+8403,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+8404,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+8406,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Colon and rectum,Colon,S
+8407,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Colon and rectum,Rectum,S
+8408,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,S
+8410,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+8464,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+8476,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,S
+8478,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+8492,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+8526,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+8528,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,S
+8529,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,S
+8530,X100E.2,Betel quid with tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+8592,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+8612,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+8613,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+8614,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+8731,X100E.4,"Coal, indoor emissions from household combustion of",100E,2012,Air pollution,indoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+8774,X100E.5,"Salted fish, Chinese-style",100E,2012,Diet,diet,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+8855,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+8929,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+8931,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Stomach,Stomach,S
+8936,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Colon and rectum,Colon,S
+8937,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Colon and rectum,Rectum,S
+8938,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+8942,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,S
+8947,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,S
+8950,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,S
+8951,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+8953,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,S
+8956,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+8957,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+8959,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+8965,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis,S
+8966,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Renal pelvis and ureter,Ureter,S
+8967,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis and ureter,S
+8968,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+8969,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Urinary tract,Urinary tract,S
+8970,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Female genital organs,Female genital organs,Ovary,Ovary,S
+8972,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,S
+8974,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+8977,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Urinary tract,Urinary tract,Kidney,Kidney,S
+8978,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+8979,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+8980,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,S
+8981,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",S
+8984,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,S
+8986,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Digestive organs,Digestive organs,Pancreas,Pancreas,S
+8988,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+8990,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+8999,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+9105,X100E.8,Tobacco smoking (parental exposure),100E,2012,Second hand smoking,second hand smoking,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+9131,X100E.9,"Tobacco, smokeless",100E,2012,Smokeless,smokeless,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),S
+9132,X100E.9,"Tobacco, smokeless",100E,2012,Smokeless,smokeless,Digestive organs,Digestive organs,Oesophagus,Oesophagus,S
+9157,X100E.9,"Tobacco, smokeless",100E,2012,Smokeless,smokeless,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),S
+9195,X100E.9,"Tobacco, smokeless",100E,2012,Smokeless,smokeless,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,S
+9202,X100E.9,"Tobacco, smokeless",100E,2012,Smokeless,smokeless,Digestive organs,Digestive organs,Pancreas,Pancreas,S
+9209,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+9213,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+9217,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+9229,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+9230,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,S
+9241,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,S
+9243,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues",S
+9246,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,S
+9258,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,S
+9262,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+9264,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+9269,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+9270,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),S
+9272,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,S
+9273,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Primary effusion lymphoma,Primary effusion lymphoma,S
+9277,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+9280,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+9282,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Multicentric Castleman disease,Multicentric Castleman disease,S
+9289,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+9302,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+9306,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+9310,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+9322,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+9323,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,S
+9334,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,S
+9336,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues",S
+9339,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,S
+9351,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,S
+9355,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+9357,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+9362,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+9363,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),S
+9365,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,S
+9366,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Primary effusion lymphoma,Primary effusion lymphoma,S
+9370,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+9373,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+9375,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Multicentric Castleman disease,Multicentric Castleman disease,S
+9382,X100F,"1,3-Butadiene",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+9414,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,Multiple or unspecified sites,Multiple or unspecified sites,All cancer sites (combined),All cancer sites (combined),S
+9513,X100F.10,Coal gasification,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+9604,X100F.11,Coal-tar distillation,100F,2012,Occupations,occupations,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+9686,X100F.12,Coal-tar pitch,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+9817,X100F.13,Coke production,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+9964,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+10005,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+10017,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+10034,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+10057,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,S
+10098,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+10110,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+10127,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+10213,X100F.16,Iron and steel founding (occupational exposure during),100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+10267,X100F.17,Isopropyl alcohol manufacture using strong acids,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,S
+10345,X100F.18,Magenta production,100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+10441,X100F.19,"Mineral oils, untreated or mildly treated",100F,2012,Chemicals and mixtures,chemicals and mixtures,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+10562,X100F.2,2-Naphthylamine,100F,2012,Chemicals and mixtures,aromatic amine,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+10648,X100F.20,ortho-Toluidine,100F,2012,Chemicals and mixtures,aromatic amine,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+10789,X100F.22,Painter (occupational exposure as a),100F,2012,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (pleura),Mesothelium (pleura),S
+10805,X100F.22,Painter (occupational exposure as a),100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+10827,X100F.22,Painter (occupational exposure as a),100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+10863,X100F.22,Painter (occupational exposure as a),100F,2012,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium,Mesothelium,S
+10879,X100F.22,Painter (occupational exposure as a),100F,2012,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (peritoneum and other),Mesothelium (peritoneum and other),S
+10882,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,S
+10884,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,S
+10890,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,S
+10898,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+10903,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,S
+10908,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Primary effusion lymphoma,Primary effusion lymphoma,S
+10910,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,S
+10911,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+10915,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Multicentric Castleman disease,Multicentric Castleman disease,S
+10917,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+10919,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+10920,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,S
+10927,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Digestive organs,Digestive organs,Stomach,Stomach,S
+10929,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+10937,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+10945,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),S
+10951,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+10954,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),S
+10957,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+10973,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+11041,X100F.24,Shale oils,100F,2012,Chemicals and mixtures,chemicals and mixtures,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+11070,X100F.25,Soot (as found in occupational exposure of chimney sweeps),100F,2012,Occupations,occupations,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),S
+11097,X100F.25,Soot (as found in occupational exposure of chimney sweeps),100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+11191,X100F.26,Sulfur mustard,100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+11324,X100F.27,Vinyl chloride,100F,2012,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+11365,X100F.3,4-Aminobiphenyl,100F,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+11481,X100F.4,"Acid mists, strong inorganic",100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+11563,X100F.5,Aflatoxins,100F,2012,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Liver,S
+11651,X100F.6,Aluminium production,100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+11693,X100F.6,Aluminium production,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+11802,X100F.7,Auramine production,100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+11904,X100F.8,Benzidine,100F,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+11915,X100F.9,Bis(chloromethyl)ether; chloromethyl methyl ether (technical grade),100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+12464,X105,"Engine exhaust, diesel",105,2014,Air polution,indoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+12659,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Kidney,Kidney,S
+12803,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,Skin,Skin,Skin (melanoma),Skin (melanoma),S
+13159,X109,Outdoor air pollution,109,2016,Air polution,outdoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+13217,X109.1,"Outdoor air pollution, particulate matter in",109,2016,Air polution,outdoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+13373,X110,"1,2-Dichloropropane",110,2017,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,S
+13598,X111,"Acheson process, occupational exposure associated with",111,2017,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+13704,X111.1,Fluoro-edenite fibrous amphibole,111,2017,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (pleura),Mesothelium (pleura),S
+13751,X111.1,Fluoro-edenite fibrous amphibole,111,2017,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium (peritoneum and other),Mesothelium (peritoneum and other),S
+13762,X111.1,Fluoro-edenite fibrous amphibole,111,2017,Occupations,occupations,"Mesothelium, endothelium and soft tissue",Mesothelium,Mesothelium,Mesothelium,S
+14278,X113.1,Lindane,113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+14304,X113.1,Lindane,113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+14316,X113.1,Lindane,113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+14319,X113.1,Lindane,113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+14320,X113.1,Lindane,113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+14350,X114,Processed meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Colon,S
+14404,X114,Processed meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Rectum,S
+14409,X114,Processed meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,S
+15022,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,S
+15025,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,S
+15030,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,S
+15033,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,S
+15035,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),S
+15054,X117.1,Pentachlorophenol,117,2019,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,S
+15095,X118,Ultraviolet emissions from welding,118,2018,Occupations,occupations,"Eye, brain and central nervous system",Eye,Eye,Eye,S
+15238,X118.1,Welding fumes,118,2018,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+15342,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,S
+15345,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,S
+15553,X126,Opium consumption,126,2021,Personal habits,personal habits,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,S
+15565,X126,Opium consumption,126,2021,Personal habits,personal habits,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,S
+15582,X126,Opium consumption,126,2021,Personal habits,personal habits,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,S
+11,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+62,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Male genital organs,Male genital organs,Prostate,Prostate,L
+69,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+77,Sup7,Androgenic (anabolic) steroids,Sup7,1987,Pharmaceuticals,hormones,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+135,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+148,Sup7.1,Bischloroethyl nitrosourea (BCNU),Sup7,1987,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+255,Sup7.2,Carpentry and joinery,Sup7,1987,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,L
+295,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,Multiple or unspecified sites,Multiple or unspecified sites,Multiple sites (unspecified),Multiple sites (unspecified),L
+297,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+309,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+312,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+321,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+332,Sup7.3,Chlorophenoxy herbicides,Sup7,1987,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+373,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+374,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+376,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+379,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+380,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+381,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+382,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+386,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+412,Sup7.4,Nitrogen mustard,Sup7,1987,Chemicals and mixtures,alkylating agent,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+487,X100A,Aristolochic acid,100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis,L
+515,X100A,Aristolochic acid,100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Ureter,L
+516,X100A,Aristolochic acid,100A,2012,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Renal pelvis and ureter,Renal pelvis and ureter,L
+662,X100A.10,"Estrogen therapy, postmenopausal",100A,2012,Pharmaceuticals,hormones,Breast,Breast,Breast,Breast,L
+964,X100A.13,Etoposide,100A,2012,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+2917,X100A.8,Diethylstilbestrol,100A,2012,Pharmaceuticals,pharmaceuticals,Female genital organs,Female genital organs,Endometrium,Endometrium,L
+3032,X100A.9,Diethylstilbestrol (exposure in utero),100A,2012,Pharmaceuticals,hormones,Male genital organs,Male genital organs,Testis,Testis,L
+3192,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,Multiple or unspecified sites,Multiple or unspecified sites,Lymphoepithelioma-like carcinoma (LELC),Lymphoepithelioma-like carcinoma (LELC),L
+3222,X100B.1,Epsteinâ€“Barr virus,100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Stomach,Stomach,L
+3261,X100B.10,Human papillomavirus type 33,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vulva,Vulva,L
+3300,X100B.10,Human papillomavirus type 33,100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Anus,Anus,L
+3628,X100B.14,Human papillomavirus type 5 (in patients with epidermodysplasia verruciformis),100B,2012,Biological agents,virus,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+3979,X100B.17,Human papillomavirus type 53,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4429,X100B.21,Human papillomavirus type 66,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4527,X100B.22,Human papillomavirus type 67,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4577,X100B.23,Human papillomavirus type 68,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4710,X100B.24,Human papillomavirus type 70,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4763,X100B.25,Human papillomavirus type 73,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+4888,X100B.26,Human papillomavirus type 8 (in patients with epidermodysplasia verruciformis),100B,2012,Biological agents,virus,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+4948,X100B.27,Human papillomavirus type 82,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+5148,X100B.29,Kaposi sarcoma herpesvirus,100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Multicentric Castleman disease,Multicentric Castleman disease,L
+5245,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+5268,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+5269,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+5294,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+5295,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+5297,X100B.3,Hepatitis B virus (chronic infection with),100B,2012,Biological agents,virus,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+5523,X100B.4,Hepatitis C virus (chronic infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+5588,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+5629,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+5638,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vulva,Vulva,L
+5639,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vagina,Vagina,L
+5644,X100B.5,Human immunodeficiency virus type 1 (infection with),100B,2012,Biological agents,virus,Male genital organs,Male genital organs,Penis,Penis,L
+5717,X100B.6,Human papillomavirus type 16,100B,2012,Biological agents,virus,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+5779,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+5787,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,L
+5801,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,Digestive organs,Digestive organs,Anus,Anus,L
+5822,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Vulva,Vulva,L
+5828,X100B.7,Human papillomavirus type 18,100B,2012,Biological agents,virus,Male genital organs,Male genital organs,Penis,Penis,L
+5917,X100B.8,Human papillomavirus type 26,100B,2012,Biological agents,virus,Female genital organs,Female genital organs,Uterine cervix,Uterine cervix,L
+6051,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Male genital organs,Male genital organs,Prostate,Prostate,L
+6059,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Urinary tract,Urinary tract,Kidney,Kidney,L
+6081,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+6095,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+6102,X100C,Arsenic and inorganic arsenic compounds,100C,2012,Metals,metals,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+6151,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+6156,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,L
+6157,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,L
+6159,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,L
+6168,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Digestive organs,Digestive organs,Colon and rectum,Rectum,L
+6191,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Digestive organs,Digestive organs,Stomach,Stomach,L
+6194,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,Digestive organs,Digestive organs,Colon and rectum,Colon,L
+6229,X100C.1,Asbestos (all forms),100C,2012,Dusts and fibers,dusts and fibers,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,L
+6409,X100C.3,Cadmium and cadmium compounds,100C,2012,Metals,metals,Urinary tract,Urinary tract,Kidney,Kidney,L
+6417,X100C.3,Cadmium and cadmium compounds,100C,2012,Metals,metals,Male genital organs,Male genital organs,Prostate,Prostate,L
+6449,X100C.4,Chromium (VI) compounds,100C,2012,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,L
+7180,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Male genital organs,Male genital organs,Prostate,Prostate,L
+7182,X100D.10,Thorium-232 and its decay products,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Pancreas,Pancreas,L
+7319,X100D.11,Ultraviolet-emitting tanning devices,100D,2012,Radiation,ultraviolet radiation,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+7349,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Male genital organs,Male genital organs,Prostate,Prostate,L
+7359,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+7361,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Female genital organs,Female genital organs,Ovary,Ovary,L
+7362,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+7363,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+7365,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+7375,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Colon and rectum,Rectum,L
+7387,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+7391,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+7394,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,Digestive organs,Digestive organs,Pancreas,Pancreas,L
+7399,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+7400,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+7406,X100D.12,X- and Gamma-radiation,100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,L
+7722,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,Bone,Bone,Bone,Bone,L
+7723,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Salivary gland,Salivary gland,L
+7733,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Leukemia,L
+7749,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,L
+7750,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+7760,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+7766,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,L
+7767,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+7774,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Mesothelium, endothelium and soft tissue",Soft tissue,Soft tissue,Soft tissue,L
+7778,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,Digestive organs,Digestive organs,"Digestive tract, unspecified","Digestive tract, unspecified",L
+7797,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+7798,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+7806,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+7807,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+7808,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+7812,X100D.4,"Radioiodines, including iodine-131",100D,2012,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+8108,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+8131,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+8138,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+8141,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+8157,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+8166,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+8170,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+8179,X100D.8,Radon-222 and its decay products,100D,2012,Radiation,ionizing radiation (all types),"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+8197,X100D.9,Solar radiation,100D,2012,Radiation,neutron radiation,"Eye, brain and central nervous system",Eye,Eye,Eye,L
+8208,X100D.9,Solar radiation,100D,2012,Radiation,neutron radiation,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Lip,Lip,L
+8374,X100E.1,Alcoholic beverages,100E,2012,Alcohol consumption,alcohol consumption,Digestive organs,Digestive organs,Pancreas,Pancreas,L
+8607,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+8635,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+8636,X100E.3,Betel quid without tobacco,100E,2012,Smokeless,areca nute,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+8784,X100E.5,"Salted fish, Chinese-style",100E,2012,Diet,diet,Digestive organs,Digestive organs,Stomach,Stomach,L
+8863,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+8898,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,L
+8899,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,L
+8904,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+8905,X100E.6,"Tobacco smoke, secondhand",100E,2012,Smoking,smoking,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,L
+8941,X100E.7,Tobacco smoking,100E,2012,Smoking,smoking,Breast,Breast,Breast,Breast,L
+9030,X100E.8,Tobacco smoking (parental exposure),100E,2012,Second hand smoking,second hand smoking,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,L
+9031,X100E.8,Tobacco smoking (parental exposure),100E,2012,Second hand smoking,second hand smoking,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+9032,X100E.8,Tobacco smoking (parental exposure),100E,2012,Second hand smoking,second hand smoking,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,L
+9421,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Mesothelium, endothelium and soft tissue",Soft tissue,Soft tissue,Soft tissue,L
+9430,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+9431,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+9444,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+9455,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+9465,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+9479,X100F.1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+9761,X100F.12,Coal-tar pitch,100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+9862,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+9913,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+9921,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,L
+9924,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+9926,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+9929,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+9930,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+9940,X100F.14,Ethylene oxide,100F,2012,Chemicals and mixtures,chemicals and mixtures,Breast,Breast,Breast,Breast,L
+9956,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,L
+10049,X100F.15,Formaldehyde,100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,L
+10754,X100F.21,Painter (maternal occupational exposure as a),100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,L
+10768,X100F.21,Painter (maternal occupational exposure as a),100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,L
+10785,X100F.21,Painter (maternal occupational exposure as a),100F,2012,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+10888,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+10894,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+10907,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+10938,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+10963,X100F.23,Rubber manufacturing industry,100F,2012,Occupations,occupations,Male genital organs,Male genital organs,Prostate,Prostate,L
+11082,X100F.25,Soot (as found in occupational exposure of chimney sweeps),100F,2012,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+11175,X100F.26,Sulfur mustard,100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+11467,X100F.4,"Acid mists, strong inorganic",100F,2012,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+12018,X102,Radiofrequency electromagnetic fields,102,2013,Radiation,electromagnetic fields,"Eye, brain and central nervous system",Brain and central nervous system,"Spinal cord, cranial nerves and other parts of CNS",Acoustic neuroma,L
+12024,X102,Radiofrequency electromagnetic fields,102,2013,Radiation,electromagnetic fields,"Eye, brain and central nervous system",Brain and central nervous system,Brain,Glioma,L
+12092,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",L
+12098,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,L
+12109,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+12121,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+12123,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+12141,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,L
+12150,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+12165,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+12166,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+12172,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,L
+12183,X103,"Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,L
+12189,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Oral cavity,Oral cavity,L
+12207,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,L
+12224,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,L
+12226,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+12228,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)","Upper aerodigestive tract (oral cavity, pharynx, larynx, oesophagus)",L
+12229,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,L
+12231,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+12232,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+12241,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+12244,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+12260,X103.1,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",103,2013,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Larynx,Larynx,L
+12311,X104,Malaria (caused by infection with Plasmodium falciparum in holoendemic areas),104,2014,Biological agents,plasmodium,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+12450,X104.1,Merkel cell polyomavirus (MCV),104,2014,Biological agents,virus,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+12501,X105,"Engine exhaust, diesel",105,2014,Air polution,indoor Air pollution,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+12615,X106,Tetrachloroethylene (Perchloroethylene),106,2014,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+12673,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+12696,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+12698,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+12706,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+12711,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+12714,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+12718,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+12728,X106.1,Trichloroethylene,106,2014,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+12806,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+12813,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+12814,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+12824,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+12832,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+12834,X107,Polychlorinated biphenyls,107,2016,Chemicals and mixtures,chemicals and mixtures,Breast,Breast,Breast,Breast,L
+12911,X108,Digoxin,108,2016,Pharmaceuticals,pharmaceuticals,Breast,Breast,Breast,Breast,L
+12981,X108.1,Hydrochlorothiazide,108,2016,Pharmaceuticals,pharmaceuticals,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+13016,X108.1,Hydrochlorothiazide,108,2016,Pharmaceuticals,pharmaceuticals,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Lip,Lip,L
+13077,X108.2,Pioglitazone,108,2016,Pharmaceuticals,pharmaceuticals,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+13115,X109,Outdoor air pollution,109,2016,Air polution,outdoor Air pollution,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+13393,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+13398,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+13407,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+13408,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+13412,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+13466,X110.1,Dichloromethane (Methylene chloride),110,2017,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+13545,X110.2,Perfluorooctanoic acid (PFOA),110,2017,Chemicals and mixtures,chemicals and mixtures,Male genital organs,Male genital organs,Testis,Testis,L
+13547,X110.2,Perfluorooctanoic acid (PFOA),110,2017,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Kidney,Kidney,L
+13826,X111.2,"Silicon carbide, fibrous",111,2017,Dusts and fibers,dusts and fibers,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+13871,X112,Diazinon,112,2017,Pesticides,pesticides,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+13877,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+13878,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+13881,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+13887,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+13904,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+13905,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+13906,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+13915,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+13916,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+13922,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+13925,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+13927,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+13944,X112,Diazinon,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+13999,X112.1,Glyphosate,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+14020,X112.1,Glyphosate,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+14021,X112.1,Glyphosate,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+14038,X112.1,Glyphosate,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+14039,X112.1,Glyphosate,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+14049,X112.2,Malathion,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+14050,X112.2,Malathion,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+14057,X112.2,Malathion,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+14058,X112.2,Malathion,112,2017,Pesticides,pesticides,Male genital organs,Male genital organs,Prostate,Prostate,L
+14085,X112.2,Malathion,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+14099,X112.2,Malathion,112,2017,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+14184,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+14188,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,Male genital organs,Male genital organs,Testis,Testis,L
+14197,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+14198,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+14201,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+14209,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+14219,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+14221,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+14228,X113,"DDT (4,4'-dichlorodiphenyltrichloroethane)",113,2018,Pesticides,pesticides,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+14384,X114,Processed meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Stomach,Stomach,L
+14423,X114.1,Red meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Pancreas,Pancreas,L
+14436,X114.1,Red meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,L
+14445,X114.1,Red meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Colon,L
+14446,X114.1,Red meat (consumption of),114,2018,Diet,diet,Digestive organs,Digestive organs,Colon and rectum,Rectum,L
+14493,X114.1,Red meat (consumption of),114,2018,Diet,diet,Male genital organs,Male genital organs,Prostate,Prostate,L
+14572,X115,2-Mercaptobenzothiazole,115,2018,Chemicals and mixtures,organic compound.,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+14659,X115.1,Hydrazine,115,2018,Chemicals and mixtures,organic compound.,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+14703,X115.2,"N,N-Dimethylformamide",115,2018,Chemicals and mixtures,organic compound.,Male genital organs,Male genital organs,Testis,Testis,L
+14841,X116,Very hot beverages at above 65 Â°C (drinking) ,116,2018,Diet,diet,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+14903,X117,"Dieldrin, and aldrin metabolized to dieldrin",117,2019,Pesticides,pesticides,Breast,Breast,Breast,Breast,L
+15186,X118.1,Welding fumes,118,2018,Dusts and fibers,dusts and fibers,Urinary tract,Urinary tract,Kidney,Kidney,L
+15264,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+15274,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+15275,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+15285,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+15286,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+15291,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,L
+15295,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+15298,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+15343,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+15344,X120,Benzene,120,2018,Chemicals and mixtures,aromatic hydrocarbon,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+15373,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues","Lymphoid, hematopoietic and related tissues",L
+15384,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+15385,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+15391,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,L
+15392,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+15396,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+15397,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+15402,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+15404,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+15413,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Lymphoma,Lymphoma,L
+15415,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+15422,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Multicentric Castleman disease,Multicentric Castleman disease,L
+15424,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Primary effusion lymphoma,Primary effusion lymphoma,L
+15425,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+15426,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Hodgkin lymphoma,Hodgkin lymphoma,L
+15428,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+15431,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+15435,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+15438,X121,Styrene,121,2019,Chemicals and mixtures,organic compound,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+15447,X124,Night shift work,124,2020,Occupations,occupations,Male genital organs,Male genital organs,Prostate,Prostate,L
+15476,X124,Night shift work,124,2020,Occupations,occupations,Digestive organs,Digestive organs,Colon and rectum,Rectum,L
+15480,X124,Night shift work,124,2020,Occupations,occupations,Breast,Breast,Breast,Breast,L
+15501,X124,Night shift work,124,2020,Occupations,occupations,Digestive organs,Digestive organs,Colon and rectum,Colon,L
+15503,X124,Night shift work,124,2020,Occupations,occupations,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,L
+15535,X126,Opium consumption,126,2021,Personal habits,personal habits,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Pharynx,L
+15536,X126,Opium consumption,126,2021,Personal habits,personal habits,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Tonsil,L
+15541,X126,Opium consumption,126,2021,Personal habits,personal habits,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+15542,X126,Opium consumption,126,2021,Personal habits,personal habits,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+15549,X126,Opium consumption,126,2021,Personal habits,personal habits,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+15551,X126,Opium consumption,126,2021,Personal habits,personal habits,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Oropharynx,L
+15561,X126,Opium consumption,126,2021,Personal habits,personal habits,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+15575,X126,Opium consumption,126,2021,Personal habits,personal habits,Digestive organs,Digestive organs,Stomach,Stomach,L
+15586,X126,Opium consumption,126,2021,Personal habits,personal habits,Digestive organs,Digestive organs,Pancreas,Pancreas,L
+15642,X130,"1,1,1-Trichloroethane",130,in press,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Multiple myeloma,Multiple myeloma,Multiple myeloma,L
+15718,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+15719,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+15721,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+15723,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+15724,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,Skin,Skin,Skin (melanoma),Skin (melanoma),L
+15725,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+15751,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+15764,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+15775,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+15776,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,Skin,Skin,Skin,Skin,L
+15793,X45,Petroleum refining (occupational exposures in),45,1989,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+15816,X48,Textile manufacturing industry (work in),48,1990,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Nasal cavity and paranasal sinus,Nasal cavity and paranasal sinus,L
+15850,X48,Textile manufacturing industry (work in),48,1990,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+15920,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+15924,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Chronic myeloid leukemia,Chronic myeloid leukemia,L
+15925,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,L
+15927,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute non-lymphocytic leukemia,L
+15932,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,L
+15935,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+15965,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Acute lymphocytic leukemia,L
+15966,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Chronic lymphocytic leukemia,L
+15967,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Lymphocytic leukemia,Lymphocytic leukemia,L
+15968,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Adult T-cell leukemia/lymphoma (ATLL),L
+15969,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia Adult (all),Leukemia Adult (All),L
+15980,X50,Chloramphenicol,50,1990,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Leukemia,Leukemia,Leukemia,L
+16046,X53,Non-arsenical insecticides (occupational exposures in spraying and application of),53,1991,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+16106,X56,Pickled vegetables (traditional Asian),56,1993,Diet,diet,Digestive organs,Digestive organs,Stomach,Stomach,L
+16114,X56,Pickled vegetables (traditional Asian),56,1993,Diet,diet,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+16124,X56,Pickled vegetables (traditional Asian),56,1993,Diet,diet,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+16131,X56,Pickled vegetables (traditional Asian),56,1993,Diet,diet,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+16154,X56,Pickled vegetables (traditional Asian),56,1993,Diet,diet,"Lip, oral cavity, and pharynx","Lip, oral cavity, and pharynx",Pharynx,Nasopharynx,L
+16185,X58,"Art glass, glass containers and pressed ware (manufacture of)",58,1993,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+16249,X58,"Art glass, glass containers and pressed ware (manufacture of)",58,1993,Occupations,occupations,Digestive organs,Digestive organs,Stomach,Stomach,L
+16279,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Liver and bile duct,Liver and bile duct,L
+16292,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Liver and bile duct,Bile duct,L
+16306,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Liver and bile duct,Liver,L
+16309,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Colon and rectum,Colon and rectum,L
+16331,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Colon and rectum,Rectum,L
+16350,X61,Schistosoma japonicum (infection with),61,1994,Biological agents,parasite,Digestive organs,Digestive organs,Colon and rectum,Colon,L
+16406,X63,Dry cleaning (occupational exposures in),63,1995,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus,L
+16415,X63,Dry cleaning (occupational exposures in),63,1995,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (adenocarcinoma),L
+16428,X63,Dry cleaning (occupational exposures in),63,1995,Occupations,occupations,Digestive organs,Digestive organs,Oesophagus,Oesophagus (squamous cell carcinoma),L
+16444,X63,Dry cleaning (occupational exposures in),63,1995,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+16506,X65,Printing processes (occupational exposures in),65,1996,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+16515,X65,Printing processes (occupational exposures in),65,1996,Occupations,occupations,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+16602,X71,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)",71,1999,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+16680,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+16694,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+16704,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+16705,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+16706,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+16734,X71.1,Polychlorophenols and their sodium salts (mixed exposures),71,1999,Chemicals and mixtures,chemicals and mixtures,"Mesothelium, endothelium and soft tissue",Soft tissue,Soft tissue,Soft tissue,L
+16817,X76,Mitoxantrone,76,2000,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+16836,X76.1,Teniposide,76,2000,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Acute non-lymphocytic leukemia,Acute myeloid leukemia,L
+16840,X76.1,Teniposide,76,2000,Pharmaceuticals,chemotherapy drug,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+16942,X80,"Magnetic fields, extremely low-frequency",80,2002,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute myeloid leukemia,L
+16943,X80,"Magnetic fields, extremely low-frequency",80,2002,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood leukemia,L
+16954,X80,"Magnetic fields, extremely low-frequency",80,2002,Radiation,radiation,"Lymphoid, hematopoietic and related tissues",Leukemia,Childhood leukemia,Childhood acute lymphocytic leukemia,L
+17046,X86,Cobalt metal with tungsten carbide,86,2006,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+17165,X87,"Lead compounds, inorganic",87,2006,Metals,metals,Digestive organs,Digestive organs,Stomach,Stomach,L
+17277,X92,Carbon electrode manufacture,92,2010,Metals,metals,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+17324,X92.1,Creosotes,92,2010,Chemicals and mixtures,chemicals and mixtures,Skin,Skin,Skin (malignant non-melanoma),Skin (malignant non-melanoma),L
+17346,X92.1,Creosotes,92,2010,Chemicals and mixtures,chemicals and mixtures,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+17470,X93,Talc-based body powder (perineal use of),93,2010,Personal habits,personal habits,Female genital organs,Female genital organs,Ovary,Ovary,L
+17564,X94,Nitrate or nitrite (ingested) under conditions that result in endogenous nitrosation,94,2010,Chemicals and mixtures,chemicals and mixtures,Digestive organs,Digestive organs,Stomach,Stomach,L
+17652,X95,"Biomass fuel (primarily wood), indoor emissions from household combustion of",95,2010,Air polution,outdoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+17748,X95.1,"Frying, emissions from high-temperature",95,2010,Air polution,indoor Air pollution,Respiratory and intrathoracic organs,Respiratory and intrathoracic organs,Lung,Lung,L
+17782,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,Male genital organs,Male genital organs,Prostate,Prostate,L
+17790,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Immunosuppression-related lymphoma,L
+17797,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Extranodal NK/T-cell lymphoma (nasal type),L
+17809,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Burkitt lymphoma,L
+17824,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Low-grade B-cell mucosa associated lymphoid tissue (MALT) gastric lymphoma,L
+17825,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,Male genital organs,Male genital organs,Testis,Testis,L
+17853,X98,Firefighter (occupational exposure as a),98,2010,Occupations,occupations,"Lymphoid, hematopoietic and related tissues",Lymphoma,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,L
+17935,X99,4-Chloro-ortho-toluidine,99,2010,Chemicals and mixtures,chemicals and mixtures,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
+17986,X99.1,Hairdresser or barber (occupational exposure as a),99,2010,Occupations,occupations,Urinary tract,Urinary tract,Urinary bladder,Urinary bladder,L
