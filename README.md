@@ -1,7 +1,7 @@
 # EpiCauses – a cancer surveillance web API to track the causes of cancer in humans.
 
 ## Rationale
-The EpiCauses Tracker aims to create a cancer surveillance ecosystem for knowledge generation on the causes of cancer using text mining of open web content. The platform’s ability to generate custom reports and visualizations makes it easier for scientists and the population to identify what is known about the causes of cancer in humans. Our goal was to create an integrative web API that could visualize and navigate the content of the text and create common answers on the causes of cancer using machine learning techniques.
+The EpiCauses Tracker aims to create a cancer surveillance ecosystem for knowledge generation on the causes of cancer using text mining of open web content. The platform’s ability to generate custom reports and visualizations making easier for scientists and the population to identify what is known about the causes of cancer in humans. Our goal was to create an integrative web API that could visualize and navigate the content of the text and create common answers on the causes of cancer using machine learning techniques.
 
 ## Materials and methods
 Data source
